@@ -1,0 +1,2080 @@
+Uri: https://demo.xpeedstudio.com/carrental/home-v4/wp-content/uploads/sites/5/2020/06/about_image.jpg
+File Name: D:\CLONE\smscarrental.com\carrental\home-v4\wp-content\uploads\sites\5\2020\06\about_image.jpg
+Content Type: image/jpeg
+
+Uri: https://demo.xpeedstudio.com/carrental/home-v4/wp-content/uploads/sites/5/2020/06/car.png
+File Name: D:\CLONE\smscarrental.com\carrental\home-v4\wp-content\uploads\sites\5\2020\06\car.png
+Content Type: image/png
+
+Uri: https://demo.xpeedstudio.com/carrental/home-v4/wp-content/uploads/sites/5/2020/06/display_car_image.png
+File Name: D:\CLONE\smscarrental.com\carrental\home-v4\wp-content\uploads\sites\5\2020\06\display_car_image.png
+Content Type: image/png
+
+Uri: https://demo.xpeedstudio.com/carrental/home-v4/wp-content/uploads/sites/5/2020/06/parking.png
+File Name: D:\CLONE\smscarrental.com\carrental\home-v4\wp-content\uploads\sites\5\2020\06\parking.png
+Content Type: image/png
+
+Uri: https://demo.xpeedstudio.com/carrental/home-v4/wp-content/uploads/sites/5/2020/06/transportation.png
+File Name: D:\CLONE\smscarrental.com\carrental\home-v4\wp-content\uploads\sites\5\2020\06\transportation.png
+Content Type: image/png
+
+Uri: https://demo.xpeedstudio.com/carrental/home-v4/wp-content/uploads/sites/5/2020/07/border.png
+File Name: D:\CLONE\smscarrental.com\carrental\home-v4\wp-content\uploads\sites\5\2020\07\border.png
+Content Type: image/png
+
+Uri: https://demo.xpeedstudio.com/carrental/home-v4/wp-content/uploads/sites/5/2020/07/team-member-01.png
+File Name: D:\CLONE\smscarrental.com\carrental\home-v4\wp-content\uploads\sites\5\2020\07\team-member-01.png
+Content Type: image/png
+
+Uri: https://demo.xpeedstudio.com/carrental/home-v4/wp-content/uploads/sites/5/2020/07/team-member-02.png.png
+File Name: D:\CLONE\smscarrental.com\carrental\home-v4\wp-content\uploads\sites\5\2020\07\team-member-02.png.png
+Content Type: image/png
+
+Uri: https://demo.xpeedstudio.com/carrental/home-v4/wp-content/uploads/sites/5/2020/07/team-member-03.png
+File Name: D:\CLONE\smscarrental.com\carrental\home-v4\wp-content\uploads\sites\5\2020\07\team-member-03.png
+Content Type: image/png
+
+Uri: https://demo.xpeedstudio.com/carrental/home-v4/wp-content/uploads/sites/5/2020/07/team-member-04.png
+File Name: D:\CLONE\smscarrental.com\carrental\home-v4\wp-content\uploads\sites\5\2020\07\team-member-04.png
+Content Type: image/png
+
+Uri: https://demo.xpeedstudio.com/carrental/home-v4/wp-content/uploads/sites/5/2020/07/team-member-05.png
+File Name: D:\CLONE\smscarrental.com\carrental\home-v4\wp-content\uploads\sites\5\2020\07\team-member-05.png
+Content Type: image/png
+
+Uri: https://demo.xpeedstudio.com/carrental/home-v4/wp-content/uploads/sites/5/2020/07/team-member-06.png
+File Name: D:\CLONE\smscarrental.com\carrental\home-v4\wp-content\uploads\sites\5\2020\07\team-member-06.png
+Content Type: image/png
+
+Uri: https://fonts.googleapis.com/css?family=Lato:%2C400%2C700%2C900
+File Name: D:\CLONE\smscarrental.com\css
+Content Type: text/css
+
+Uri: https://fonts.googleapis.com/css?family=Lato:100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic|Roboto:100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic|Roboto+Slab:100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic&display=swap&ver=6.4.2
+File Name: D:\CLONE\smscarrental.com\css-7
+Content Type: text/css
+
+Uri: https://fonts.googleapis.com/css?family=Lato:100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic&display=swap&ver=6.4.2
+File Name: D:\CLONE\smscarrental.com\css-3
+Content Type: text/css
+
+Uri: https://fonts.googleapis.com/css?family=Lato:400%2C700%2C900%2C400italic%2C700italic%2C900italic%26display%3Dswap|Poppins:600%2C700|Rubik:400%2C500%2C700&ver=3.0.2
+File Name: D:\CLONE\smscarrental.com\css-1
+Content Type: text/css
+
+Uri: https://fonts.googleapis.com/css?family=Roboto:100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic|Roboto+Slab:100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic|Archivo:100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic&display=swap&ver=6.4.2
+File Name: D:\CLONE\smscarrental.com\css-6
+Content Type: text/css
+
+Uri: https://fonts.googleapis.com/css?family=Roboto:100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic|Roboto+Slab:100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic|Poppins:100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic|Rubik:100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic&display=swap&ver=6.4.2
+File Name: D:\CLONE\smscarrental.com\css-5
+Content Type: text/css
+
+Uri: https://fonts.googleapis.com/css?family=Roboto:100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic|Roboto+Slab:100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic|Viga:100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic|Montserrat:100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic|Merriweather:100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic&display=swap&ver=6.4.2
+File Name: D:\CLONE\smscarrental.com\css-4
+Content Type: text/css
+
+Uri: https://fonts.googleapis.com/css?family=Roboto:100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic|Roboto+Slab:100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic&display=swap&ver=6.4.2
+File Name: D:\CLONE\smscarrental.com\css-2
+Content Type: text/css
+
+Uri: https://fonts.gstatic.com/s/archivo/v19/k3k6o8UDI-1M0wlSV9XAw6lQkqWY8Q82sJaRE-NWIDdgffTT0zRZ9xds.ttf
+File Name: D:\CLONE\smscarrental.com\s\archivo\v19\k3k6o8UDI-1M0wlSV9XAw6lQkqWY8Q82sJaRE-NWIDdgffTT0zRZ9xds.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/archivo/v19/k3k6o8UDI-1M0wlSV9XAw6lQkqWY8Q82sJaRE-NWIDdgffTT6jRZ9xds.ttf
+File Name: D:\CLONE\smscarrental.com\s\archivo\v19\k3k6o8UDI-1M0wlSV9XAw6lQkqWY8Q82sJaRE-NWIDdgffTT6jRZ9xds.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/archivo/v19/k3k6o8UDI-1M0wlSV9XAw6lQkqWY8Q82sJaRE-NWIDdgffTTajNZ9xds.ttf
+File Name: D:\CLONE\smscarrental.com\s\archivo\v19\k3k6o8UDI-1M0wlSV9XAw6lQkqWY8Q82sJaRE-NWIDdgffTTajNZ9xds.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/archivo/v19/k3k6o8UDI-1M0wlSV9XAw6lQkqWY8Q82sJaRE-NWIDdgffTTBjNZ9xds.ttf
+File Name: D:\CLONE\smscarrental.com\s\archivo\v19\k3k6o8UDI-1M0wlSV9XAw6lQkqWY8Q82sJaRE-NWIDdgffTTBjNZ9xds.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/archivo/v19/k3k6o8UDI-1M0wlSV9XAw6lQkqWY8Q82sJaRE-NWIDdgffTTNDJZ9xds.ttf
+File Name: D:\CLONE\smscarrental.com\s\archivo\v19\k3k6o8UDI-1M0wlSV9XAw6lQkqWY8Q82sJaRE-NWIDdgffTTNDJZ9xds.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/archivo/v19/k3k6o8UDI-1M0wlSV9XAw6lQkqWY8Q82sJaRE-NWIDdgffTTNDNZ9xds.ttf
+File Name: D:\CLONE\smscarrental.com\s\archivo\v19\k3k6o8UDI-1M0wlSV9XAw6lQkqWY8Q82sJaRE-NWIDdgffTTNDNZ9xds.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/archivo/v19/k3k6o8UDI-1M0wlSV9XAw6lQkqWY8Q82sJaRE-NWIDdgffTTnTRZ9xds.ttf
+File Name: D:\CLONE\smscarrental.com\s\archivo\v19\k3k6o8UDI-1M0wlSV9XAw6lQkqWY8Q82sJaRE-NWIDdgffTTnTRZ9xds.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/archivo/v19/k3k6o8UDI-1M0wlSV9XAw6lQkqWY8Q82sJaRE-NWIDdgffTTtDNZ9xds.ttf
+File Name: D:\CLONE\smscarrental.com\s\archivo\v19\k3k6o8UDI-1M0wlSV9XAw6lQkqWY8Q82sJaRE-NWIDdgffTTtDNZ9xds.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/archivo/v19/k3k6o8UDI-1M0wlSV9XAw6lQkqWY8Q82sJaRE-NWIDdgffTTtDRZ9xds.ttf
+File Name: D:\CLONE\smscarrental.com\s\archivo\v19\k3k6o8UDI-1M0wlSV9XAw6lQkqWY8Q82sJaRE-NWIDdgffTTtDRZ9xds.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/archivo/v19/k3k8o8UDI-1M0wlSfdzyIEkpwTM29hr-8mTYIRyOSVz60_PG_HABsydrD0o.ttf
+File Name: D:\CLONE\smscarrental.com\s\archivo\v19\k3k8o8UDI-1M0wlSfdzyIEkpwTM29hr-8mTYIRyOSVz60_PG_HABsydrD0o.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/archivo/v19/k3k8o8UDI-1M0wlSfdzyIEkpwTM29hr-8mTYIRyOSVz60_PG_HABtCdrD0o.ttf
+File Name: D:\CLONE\smscarrental.com\s\archivo\v19\k3k8o8UDI-1M0wlSfdzyIEkpwTM29hr-8mTYIRyOSVz60_PG_HABtCdrD0o.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/archivo/v19/k3k8o8UDI-1M0wlSfdzyIEkpwTM29hr-8mTYIRyOSVz60_PG_HAotCdrD0o.ttf
+File Name: D:\CLONE\smscarrental.com\s\archivo\v19\k3k8o8UDI-1M0wlSfdzyIEkpwTM29hr-8mTYIRyOSVz60_PG_HAotCdrD0o.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/archivo/v19/k3k8o8UDI-1M0wlSfdzyIEkpwTM29hr-8mTYIRyOSVz60_PG_HBftCdrD0o.ttf
+File Name: D:\CLONE\smscarrental.com\s\archivo\v19\k3k8o8UDI-1M0wlSfdzyIEkpwTM29hr-8mTYIRyOSVz60_PG_HBftCdrD0o.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/archivo/v19/k3k8o8UDI-1M0wlSfdzyIEkpwTM29hr-8mTYIRyOSVz60_PG_HBmtCdrD0o.ttf
+File Name: D:\CLONE\smscarrental.com\s\archivo\v19\k3k8o8UDI-1M0wlSfdzyIEkpwTM29hr-8mTYIRyOSVz60_PG_HBmtCdrD0o.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/archivo/v19/k3k8o8UDI-1M0wlSfdzyIEkpwTM29hr-8mTYIRyOSVz60_PG_HCBsidrD0o.ttf
+File Name: D:\CLONE\smscarrental.com\s\archivo\v19\k3k8o8UDI-1M0wlSfdzyIEkpwTM29hr-8mTYIRyOSVz60_PG_HCBsidrD0o.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/archivo/v19/k3k8o8UDI-1M0wlSfdzyIEkpwTM29hr-8mTYIRyOSVz60_PG_HCBsydrD0o.ttf
+File Name: D:\CLONE\smscarrental.com\s\archivo\v19\k3k8o8UDI-1M0wlSfdzyIEkpwTM29hr-8mTYIRyOSVz60_PG_HCBsydrD0o.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/archivo/v19/k3k8o8UDI-1M0wlSfdzyIEkpwTM29hr-8mTYIRyOSVz60_PG_HCzsydrD0o.ttf
+File Name: D:\CLONE\smscarrental.com\s\archivo\v19\k3k8o8UDI-1M0wlSfdzyIEkpwTM29hr-8mTYIRyOSVz60_PG_HCzsydrD0o.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/archivo/v19/k3k8o8UDI-1M0wlSfdzyIEkpwTM29hr-8mTYIRyOSVz60_PG_HDfsydrD0o.ttf
+File Name: D:\CLONE\smscarrental.com\s\archivo\v19\k3k8o8UDI-1M0wlSfdzyIEkpwTM29hr-8mTYIRyOSVz60_PG_HDfsydrD0o.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/lato/v24/S6u-w4BMUTPHjxsIPx-oPCc.ttf
+File Name: D:\CLONE\smscarrental.com\s\lato\v24\S6u-w4BMUTPHjxsIPx-oPCc.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/lato/v24/S6u8w4BMUTPHh30AXC-v.ttf
+File Name: D:\CLONE\smscarrental.com\s\lato\v24\S6u8w4BMUTPHh30AXC-v.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/lato/v24/S6u8w4BMUTPHjxsAXC-v.ttf
+File Name: D:\CLONE\smscarrental.com\s\lato\v24\S6u8w4BMUTPHjxsAXC-v.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/lato/v24/S6u9w4BMUTPHh50XSwiPHA.ttf
+File Name: D:\CLONE\smscarrental.com\s\lato\v24\S6u9w4BMUTPHh50XSwiPHA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/lato/v24/S6u9w4BMUTPHh6UVSwiPHA.ttf
+File Name: D:\CLONE\smscarrental.com\s\lato\v24\S6u9w4BMUTPHh6UVSwiPHA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/lato/v24/S6u9w4BMUTPHh7USSwiPHA.ttf
+File Name: D:\CLONE\smscarrental.com\s\lato\v24\S6u9w4BMUTPHh7USSwiPHA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/lato/v24/S6uyw4BMUTPHjx4wWw.ttf
+File Name: D:\CLONE\smscarrental.com\s\lato\v24\S6uyw4BMUTPHjx4wWw.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/lato/v24/S6u_w4BMUTPHjxsI3wi_Gwfo.ttf
+File Name: D:\CLONE\smscarrental.com\s\lato\v24\S6u_w4BMUTPHjxsI3wi_Gwfo.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/lato/v24/S6u_w4BMUTPHjxsI5wq_Gwfo.ttf
+File Name: D:\CLONE\smscarrental.com\s\lato\v24\S6u_w4BMUTPHjxsI5wq_Gwfo.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/lato/v24/S6u_w4BMUTPHjxsI9w2_Gwfo.ttf
+File Name: D:\CLONE\smscarrental.com\s\lato\v24\S6u_w4BMUTPHjxsI9w2_Gwfo.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/merriweather/v30/u-440qyriQwlOrhSvowK_l5-fCZJ.ttf
+File Name: D:\CLONE\smscarrental.com\s\merriweather\v30\u-440qyriQwlOrhSvowK_l5-fCZJ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/merriweather/v30/u-4l0qyriQwlOrhSvowK_l5-eR71Wvf4jvk.ttf
+File Name: D:\CLONE\smscarrental.com\s\merriweather\v30\u-4l0qyriQwlOrhSvowK_l5-eR71Wvf4jvk.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/merriweather/v30/u-4l0qyriQwlOrhSvowK_l5-eR7lXff4jvk.ttf
+File Name: D:\CLONE\smscarrental.com\s\merriweather\v30\u-4l0qyriQwlOrhSvowK_l5-eR7lXff4jvk.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/merriweather/v30/u-4l0qyriQwlOrhSvowK_l5-eR7NWPf4jvk.ttf
+File Name: D:\CLONE\smscarrental.com\s\merriweather\v30\u-4l0qyriQwlOrhSvowK_l5-eR7NWPf4jvk.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/merriweather/v30/u-4m0qyriQwlOrhSvowK_l5-eRZOf-c.ttf
+File Name: D:\CLONE\smscarrental.com\s\merriweather\v30\u-4m0qyriQwlOrhSvowK_l5-eRZOf-c.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/merriweather/v30/u-4n0qyriQwlOrhSvowK_l521wRZWMf_.ttf
+File Name: D:\CLONE\smscarrental.com\s\merriweather\v30\u-4n0qyriQwlOrhSvowK_l521wRZWMf_.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/merriweather/v30/u-4n0qyriQwlOrhSvowK_l52xwNZWMf_.ttf
+File Name: D:\CLONE\smscarrental.com\s\merriweather\v30\u-4n0qyriQwlOrhSvowK_l52xwNZWMf_.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/merriweather/v30/u-4n0qyriQwlOrhSvowK_l52_wFZWMf_.ttf
+File Name: D:\CLONE\smscarrental.com\s\merriweather\v30\u-4n0qyriQwlOrhSvowK_l52_wFZWMf_.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v26/JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jq0N6WXh0ow.ttf
+File Name: D:\CLONE\smscarrental.com\s\montserrat\v26\JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jq0N6WXh0ow.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v26/JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jq3p6WXh0ow.ttf
+File Name: D:\CLONE\smscarrental.com\s\montserrat\v26\JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jq3p6WXh0ow.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v26/JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jq5Z9WXh0ow.ttf
+File Name: D:\CLONE\smscarrental.com\s\montserrat\v26\JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jq5Z9WXh0ow.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v26/JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jq6R8WXh0ow.ttf
+File Name: D:\CLONE\smscarrental.com\s\montserrat\v26\JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jq6R8WXh0ow.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v26/JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jq6R9WXh0ow.ttf
+File Name: D:\CLONE\smscarrental.com\s\montserrat\v26\JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jq6R9WXh0ow.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v26/JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jqw16WXh0ow.ttf
+File Name: D:\CLONE\smscarrental.com\s\montserrat\v26\JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jqw16WXh0ow.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v26/JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jqyR6WXh0ow.ttf
+File Name: D:\CLONE\smscarrental.com\s\montserrat\v26\JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jqyR6WXh0ow.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v26/JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jqyR9WXh0ow.ttf
+File Name: D:\CLONE\smscarrental.com\s\montserrat\v26\JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jqyR9WXh0ow.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v26/JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jq_p9WXh0ow.ttf
+File Name: D:\CLONE\smscarrental.com\s\montserrat\v26\JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jq_p9WXh0ow.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v26/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCs16Hw5aX8.ttf
+File Name: D:\CLONE\smscarrental.com\s\montserrat\v26\JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCs16Hw5aX8.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v26/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCtr6Hw5aX8.ttf
+File Name: D:\CLONE\smscarrental.com\s\montserrat\v26\JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCtr6Hw5aX8.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v26/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCtr6Xw5aX8.ttf
+File Name: D:\CLONE\smscarrental.com\s\montserrat\v26\JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCtr6Xw5aX8.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v26/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCtZ6Hw5aX8.ttf
+File Name: D:\CLONE\smscarrental.com\s\montserrat\v26\JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCtZ6Hw5aX8.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v26/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCu173w5aX8.ttf
+File Name: D:\CLONE\smscarrental.com\s\montserrat\v26\JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCu173w5aX8.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v26/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCuM73w5aX8.ttf
+File Name: D:\CLONE\smscarrental.com\s\montserrat\v26\JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCuM73w5aX8.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v26/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCvC73w5aX8.ttf
+File Name: D:\CLONE\smscarrental.com\s\montserrat\v26\JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCvC73w5aX8.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v26/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCvr6Hw5aX8.ttf
+File Name: D:\CLONE\smscarrental.com\s\montserrat\v26\JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCvr6Hw5aX8.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v26/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCvr73w5aX8.ttf
+File Name: D:\CLONE\smscarrental.com\s\montserrat\v26\JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCvr73w5aX8.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v20/pxiAyp8kv8JHgFVrJJLmE0tCMPc.ttf
+File Name: D:\CLONE\smscarrental.com\s\poppins\v20\pxiAyp8kv8JHgFVrJJLmE0tCMPc.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v20/pxiByp8kv8JHgFVrLBT5Z1xlEA.ttf
+File Name: D:\CLONE\smscarrental.com\s\poppins\v20\pxiByp8kv8JHgFVrLBT5Z1xlEA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v20/pxiByp8kv8JHgFVrLCz7Z1xlEA.ttf
+File Name: D:\CLONE\smscarrental.com\s\poppins\v20\pxiByp8kv8JHgFVrLCz7Z1xlEA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v20/pxiByp8kv8JHgFVrLDD4Z1xlEA.ttf
+File Name: D:\CLONE\smscarrental.com\s\poppins\v20\pxiByp8kv8JHgFVrLDD4Z1xlEA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v20/pxiByp8kv8JHgFVrLDz8Z1xlEA.ttf
+File Name: D:\CLONE\smscarrental.com\s\poppins\v20\pxiByp8kv8JHgFVrLDz8Z1xlEA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v20/pxiByp8kv8JHgFVrLEj6Z1xlEA.ttf
+File Name: D:\CLONE\smscarrental.com\s\poppins\v20\pxiByp8kv8JHgFVrLEj6Z1xlEA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v20/pxiByp8kv8JHgFVrLFj_Z1xlEA.ttf
+File Name: D:\CLONE\smscarrental.com\s\poppins\v20\pxiByp8kv8JHgFVrLFj_Z1xlEA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v20/pxiByp8kv8JHgFVrLGT9Z1xlEA.ttf
+File Name: D:\CLONE\smscarrental.com\s\poppins\v20\pxiByp8kv8JHgFVrLGT9Z1xlEA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v20/pxiDyp8kv8JHgFVrJJLm111VF9eL.ttf
+File Name: D:\CLONE\smscarrental.com\s\poppins\v20\pxiDyp8kv8JHgFVrJJLm111VF9eL.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v20/pxiDyp8kv8JHgFVrJJLm21lVF9eL.ttf
+File Name: D:\CLONE\smscarrental.com\s\poppins\v20\pxiDyp8kv8JHgFVrJJLm21lVF9eL.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v20/pxiDyp8kv8JHgFVrJJLm81xVF9eL.ttf
+File Name: D:\CLONE\smscarrental.com\s\poppins\v20\pxiDyp8kv8JHgFVrJJLm81xVF9eL.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v20/pxiDyp8kv8JHgFVrJJLmg1hVF9eL.ttf
+File Name: D:\CLONE\smscarrental.com\s\poppins\v20\pxiDyp8kv8JHgFVrJJLmg1hVF9eL.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v20/pxiDyp8kv8JHgFVrJJLmr19VF9eL.ttf
+File Name: D:\CLONE\smscarrental.com\s\poppins\v20\pxiDyp8kv8JHgFVrJJLmr19VF9eL.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v20/pxiDyp8kv8JHgFVrJJLmv1pVF9eL.ttf
+File Name: D:\CLONE\smscarrental.com\s\poppins\v20\pxiDyp8kv8JHgFVrJJLmv1pVF9eL.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v20/pxiDyp8kv8JHgFVrJJLmy15VF9eL.ttf
+File Name: D:\CLONE\smscarrental.com\s\poppins\v20\pxiDyp8kv8JHgFVrJJLmy15VF9eL.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v20/pxiEyp8kv8JHgFVrJJfedw.ttf
+File Name: D:\CLONE\smscarrental.com\s\poppins\v20\pxiEyp8kv8JHgFVrJJfedw.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v20/pxiGyp8kv8JHgFVrJJLucHtF.ttf
+File Name: D:\CLONE\smscarrental.com\s\poppins\v20\pxiGyp8kv8JHgFVrJJLucHtF.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v20/pxiGyp8kv8JHgFVrLPTucHtF.ttf
+File Name: D:\CLONE\smscarrental.com\s\poppins\v20\pxiGyp8kv8JHgFVrLPTucHtF.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOiCnqEu92Fr1Mu51QrEzAdKg.ttf
+File Name: D:\CLONE\smscarrental.com\s\roboto\v30\KFOiCnqEu92Fr1Mu51QrEzAdKg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOjCnqEu92Fr1Mu51S7ACc6CsE.ttf
+File Name: D:\CLONE\smscarrental.com\s\roboto\v30\KFOjCnqEu92Fr1Mu51S7ACc6CsE.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOjCnqEu92Fr1Mu51TjASc6CsE.ttf
+File Name: D:\CLONE\smscarrental.com\s\roboto\v30\KFOjCnqEu92Fr1Mu51TjASc6CsE.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOjCnqEu92Fr1Mu51TLBCc6CsE.ttf
+File Name: D:\CLONE\smscarrental.com\s\roboto\v30\KFOjCnqEu92Fr1Mu51TLBCc6CsE.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOjCnqEu92Fr1Mu51TzBic6CsE.ttf
+File Name: D:\CLONE\smscarrental.com\s\roboto\v30\KFOjCnqEu92Fr1Mu51TzBic6CsE.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOkCnqEu92Fr1MmgVxIIzc.ttf
+File Name: D:\CLONE\smscarrental.com\s\roboto\v30\KFOkCnqEu92Fr1MmgVxIIzc.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOkCnqEu92Fr1Mu51xIIzc.ttf
+File Name: D:\CLONE\smscarrental.com\s\roboto\v30\KFOkCnqEu92Fr1Mu51xIIzc.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOlCnqEu92Fr1MmEU9fBBc9.ttf
+File Name: D:\CLONE\smscarrental.com\s\roboto\v30\KFOlCnqEu92Fr1MmEU9fBBc9.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOlCnqEu92Fr1MmSU5fBBc9.ttf
+File Name: D:\CLONE\smscarrental.com\s\roboto\v30\KFOlCnqEu92Fr1MmSU5fBBc9.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOlCnqEu92Fr1MmWUlfBBc9.ttf
+File Name: D:\CLONE\smscarrental.com\s\roboto\v30\KFOlCnqEu92Fr1MmWUlfBBc9.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOlCnqEu92Fr1MmYUtfBBc9.ttf
+File Name: D:\CLONE\smscarrental.com\s\roboto\v30\KFOlCnqEu92Fr1MmYUtfBBc9.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOmCnqEu92Fr1Mu4mxP.ttf
+File Name: D:\CLONE\smscarrental.com\s\roboto\v30\KFOmCnqEu92Fr1Mu4mxP.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/robotoslab/v34/BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjo0oSmb2Rm.ttf
+File Name: D:\CLONE\smscarrental.com\s\robotoslab\v34\BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjo0oSmb2Rm.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/robotoslab/v34/BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoa4Omb2Rm.ttf
+File Name: D:\CLONE\smscarrental.com\s\robotoslab\v34\BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoa4Omb2Rm.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/robotoslab/v34/BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoDIOmb2Rm.ttf
+File Name: D:\CLONE\smscarrental.com\s\robotoslab\v34\BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoDIOmb2Rm.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/robotoslab/v34/BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoDISmb2Rm.ttf
+File Name: D:\CLONE\smscarrental.com\s\robotoslab\v34\BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoDISmb2Rm.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/robotoslab/v34/BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjojISmb2Rm.ttf
+File Name: D:\CLONE\smscarrental.com\s\robotoslab\v34\BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjojISmb2Rm.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/robotoslab/v34/BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjojIWmb2Rm.ttf
+File Name: D:\CLONE\smscarrental.com\s\robotoslab\v34\BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjojIWmb2Rm.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/robotoslab/v34/BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoJYOmb2Rm.ttf
+File Name: D:\CLONE\smscarrental.com\s\robotoslab\v34\BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoJYOmb2Rm.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/robotoslab/v34/BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoUoOmb2Rm.ttf
+File Name: D:\CLONE\smscarrental.com\s\robotoslab\v34\BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoUoOmb2Rm.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/robotoslab/v34/BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjovoSmb2Rm.ttf
+File Name: D:\CLONE\smscarrental.com\s\robotoslab\v34\BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjovoSmb2Rm.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/rubik/v28/iJWbBXyIfDnIV7nEt3KSJbVDV49rz8sDE3U3f4c.ttf
+File Name: D:\CLONE\smscarrental.com\s\rubik\v28\iJWbBXyIfDnIV7nEt3KSJbVDV49rz8sDE3U3f4c.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/rubik/v28/iJWbBXyIfDnIV7nEt3KSJbVDV49rz8tdE3U3f4c.ttf
+File Name: D:\CLONE\smscarrental.com\s\rubik\v28\iJWbBXyIfDnIV7nEt3KSJbVDV49rz8tdE3U3f4c.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/rubik/v28/iJWbBXyIfDnIV7nEt3KSJbVDV49rz8tvE3U3f4c.ttf
+File Name: D:\CLONE\smscarrental.com\s\rubik\v28\iJWbBXyIfDnIV7nEt3KSJbVDV49rz8tvE3U3f4c.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/rubik/v28/iJWbBXyIfDnIV7nEt3KSJbVDV49rz8u6FHU3f4c.ttf
+File Name: D:\CLONE\smscarrental.com\s\rubik\v28\iJWbBXyIfDnIV7nEt3KSJbVDV49rz8u6FHU3f4c.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/rubik/v28/iJWbBXyIfDnIV7nEt3KSJbVDV49rz8uDFHU3f4c.ttf
+File Name: D:\CLONE\smscarrental.com\s\rubik\v28\iJWbBXyIfDnIV7nEt3KSJbVDV49rz8uDFHU3f4c.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/rubik/v28/iJWbBXyIfDnIV7nEt3KSJbVDV49rz8v0FHU3f4c.ttf
+File Name: D:\CLONE\smscarrental.com\s\rubik\v28\iJWbBXyIfDnIV7nEt3KSJbVDV49rz8v0FHU3f4c.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/rubik/v28/iJWbBXyIfDnIV7nEt3KSJbVDV49rz8vdFHU3f4c.ttf
+File Name: D:\CLONE\smscarrental.com\s\rubik\v28\iJWbBXyIfDnIV7nEt3KSJbVDV49rz8vdFHU3f4c.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/rubik/v28/iJWZBXyIfDnIV5PNhY1KTN7Z-Yh-2Y-FV0Uw.ttf
+File Name: D:\CLONE\smscarrental.com\s\rubik\v28\iJWZBXyIfDnIV5PNhY1KTN7Z-Yh-2Y-FV0Uw.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/rubik/v28/iJWZBXyIfDnIV5PNhY1KTN7Z-Yh-4I-FV0Uw.ttf
+File Name: D:\CLONE\smscarrental.com\s\rubik\v28\iJWZBXyIfDnIV5PNhY1KTN7Z-Yh-4I-FV0Uw.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/rubik/v28/iJWZBXyIfDnIV5PNhY1KTN7Z-Yh-B4iFV0Uw.ttf
+File Name: D:\CLONE\smscarrental.com\s\rubik\v28\iJWZBXyIfDnIV5PNhY1KTN7Z-Yh-B4iFV0Uw.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/rubik/v28/iJWZBXyIfDnIV5PNhY1KTN7Z-Yh-h4-FV0Uw.ttf
+File Name: D:\CLONE\smscarrental.com\s\rubik\v28\iJWZBXyIfDnIV5PNhY1KTN7Z-Yh-h4-FV0Uw.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/rubik/v28/iJWZBXyIfDnIV5PNhY1KTN7Z-Yh-NYiFV0Uw.ttf
+File Name: D:\CLONE\smscarrental.com\s\rubik\v28\iJWZBXyIfDnIV5PNhY1KTN7Z-Yh-NYiFV0Uw.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/rubik/v28/iJWZBXyIfDnIV5PNhY1KTN7Z-Yh-ro-FV0Uw.ttf
+File Name: D:\CLONE\smscarrental.com\s\rubik\v28\iJWZBXyIfDnIV5PNhY1KTN7Z-Yh-ro-FV0Uw.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/rubik/v28/iJWZBXyIfDnIV5PNhY1KTN7Z-Yh-WYiFV0Uw.ttf
+File Name: D:\CLONE\smscarrental.com\s\rubik\v28\iJWZBXyIfDnIV5PNhY1KTN7Z-Yh-WYiFV0Uw.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/viga/v14/xMQbuFFdSaiXzQUpCw.ttf
+File Name: D:\CLONE\smscarrental.com\s\viga\v14\xMQbuFFdSaiXzQUpCw.ttf
+Content Type: font/ttf
+
+Uri: https://secure.gravatar.com/avatar/03d9353fbd657f165fd2737e4fd20846?s=192&d=mm&r=g
+File Name: D:\CLONE\smscarrental.com\avatar\03d9353fbd657f165fd2737e4fd20846-1.png
+Content Type: image/jpeg
+
+Uri: https://secure.gravatar.com/avatar/03d9353fbd657f165fd2737e4fd20846?s=96&d=mm&r=g
+File Name: D:\CLONE\smscarrental.com\avatar\03d9353fbd657f165fd2737e4fd20846.png
+Content Type: image/jpeg
+
+Uri: https://secure.gravatar.com/avatar/?s=192&d=mm&r=g
+File Name: D:\CLONE\smscarrental.com\avatar\none-1.png
+Content Type: image/jpeg
+
+Uri: https://secure.gravatar.com/avatar/?s=96&d=mm&r=g
+File Name: D:\CLONE\smscarrental.com\avatar\none.png
+Content Type: image/jpeg
+
+Uri: https://secure.gravatar.com/avatar/d7a973c7dab26985da5f961be7b74480?s=120&d=mm&r=g
+File Name: D:\CLONE\smscarrental.com\avatar\d7a973c7dab26985da5f961be7b74480-1.png
+Content Type: image/png
+
+Uri: https://secure.gravatar.com/avatar/d7a973c7dab26985da5f961be7b74480?s=60&d=mm&r=g
+File Name: D:\CLONE\smscarrental.com\avatar\d7a973c7dab26985da5f961be7b74480.png
+Content Type: image/png
+
+Uri: https://smscarrental.com/
+File Name: D:\CLONE\smscarrental.com\index.htm
+Content Type: text/html
+
+Uri: https://smscarrental.com/about/
+File Name: D:\CLONE\smscarrental.com\about\index.htm
+Content Type: text/html
+
+Uri: https://smscarrental.com/airport-pick-up-and-drop/
+File Name: D:\CLONE\smscarrental.com\airport-pick-up-and-drop\index.htm
+Content Type: text/html
+
+Uri: https://smscarrental.com/author/admin/
+File Name: D:\CLONE\smscarrental.com\author\admin\index.htm
+Content Type: text/html
+
+Uri: https://smscarrental.com/author/admin/feed/
+File Name: D:\CLONE\smscarrental.com\author\admin\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://smscarrental.com/blog/
+File Name: D:\CLONE\smscarrental.com\blog\index.htm
+Content Type: text/html
+
+Uri: https://smscarrental.com/bpo/
+File Name: D:\CLONE\smscarrental.com\bpo\index.htm
+Content Type: text/html
+
+Uri: https://smscarrental.com/call-centre/
+File Name: D:\CLONE\smscarrental.com\call-centre\index.htm
+Content Type: text/html
+
+Uri: https://smscarrental.com/category/uncategorized/
+File Name: D:\CLONE\smscarrental.com\category\uncategorized\index.htm
+Content Type: text/html
+
+Uri: https://smscarrental.com/category/uncategorized/feed/
+File Name: D:\CLONE\smscarrental.com\category\uncategorized\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://smscarrental.com/comments/feed/
+File Name: D:\CLONE\smscarrental.com\comments\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://smscarrental.com/contact/
+File Name: D:\CLONE\smscarrental.com\contact\index.htm
+Content Type: text/html
+
+Uri: https://smscarrental.com/contract-services/
+File Name: D:\CLONE\smscarrental.com\contract-services\index.htm
+Content Type: text/html
+
+Uri: https://smscarrental.com/corporate-taxi-services/
+File Name: D:\CLONE\smscarrental.com\corporate-taxi-services\index.htm
+Content Type: text/html
+
+Uri: https://smscarrental.com/daily/
+File Name: D:\CLONE\smscarrental.com\daily\index.htm
+Content Type: text/html
+
+Uri: https://smscarrental.com/feed/
+File Name: D:\CLONE\smscarrental.com\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://smscarrental.com/female-employees/
+File Name: D:\CLONE\smscarrental.com\female-employees\index.htm
+Content Type: text/html
+
+Uri: https://smscarrental.com/hello-world-2/
+File Name: D:\CLONE\smscarrental.com\hello-world-2\index.htm
+Content Type: text/html
+
+Uri: https://smscarrental.com/hello-world-2/?replytocom=2
+File Name: D:\CLONE\smscarrental.com\hello-world-2\index-1.htm
+Content Type: text/html
+
+Uri: https://smscarrental.com/hello-world-2/feed/
+File Name: D:\CLONE\smscarrental.com\hello-world-2\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://smscarrental.com/hello-world-3/
+File Name: D:\CLONE\smscarrental.com\hello-world-3\index.htm
+Content Type: text/html
+
+Uri: https://smscarrental.com/hello-world-3/?replytocom=3
+File Name: D:\CLONE\smscarrental.com\hello-world-3\index-1.htm
+Content Type: text/html
+
+Uri: https://smscarrental.com/hello-world-3/feed/
+File Name: D:\CLONE\smscarrental.com\hello-world-3\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://smscarrental.com/hello-world/
+File Name: D:\CLONE\smscarrental.com\hello-world\index.htm
+Content Type: text/html
+
+Uri: https://smscarrental.com/hello-world/?replytocom=1
+File Name: D:\CLONE\smscarrental.com\hello-world\index-1.htm
+Content Type: text/html
+
+Uri: https://smscarrental.com/hello-world/feed/
+File Name: D:\CLONE\smscarrental.com\hello-world\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://smscarrental.com/hotels/
+File Name: D:\CLONE\smscarrental.com\hotels\index.htm
+Content Type: text/html
+
+Uri: https://smscarrental.com/intracity/
+File Name: D:\CLONE\smscarrental.com\intracity\index.htm
+Content Type: text/html
+
+Uri: https://smscarrental.com/it-industry/
+File Name: D:\CLONE\smscarrental.com\it-industry\index.htm
+Content Type: text/html
+
+Uri: https://smscarrental.com/marketing-agencies/
+File Name: D:\CLONE\smscarrental.com\marketing-agencies\index.htm
+Content Type: text/html
+
+Uri: https://smscarrental.com/night-shifts/
+File Name: D:\CLONE\smscarrental.com\night-shifts\index.htm
+Content Type: text/html
+
+Uri: https://smscarrental.com/our-team/
+File Name: D:\CLONE\smscarrental.com\our-team\index.htm
+Content Type: text/html
+
+Uri: https://smscarrental.com/outstation/
+File Name: D:\CLONE\smscarrental.com\outstation\index.htm
+Content Type: text/html
+
+Uri: https://smscarrental.com/pharma/
+File Name: D:\CLONE\smscarrental.com\pharma\index.htm
+Content Type: text/html
+
+Uri: https://smscarrental.com/portfolio/
+File Name: D:\CLONE\smscarrental.com\portfolio\index.htm
+Content Type: text/html
+
+Uri: https://smscarrental.com/railway-pick-up-and-drop/
+File Name: D:\CLONE\smscarrental.com\railway-pick-up-and-drop\index.htm
+Content Type: text/html
+
+Uri: https://smscarrental.com/road-trips/
+File Name: D:\CLONE\smscarrental.com\road-trips\index.htm
+Content Type: text/html
+
+Uri: https://smscarrental.com/taxi-services/
+File Name: D:\CLONE\smscarrental.com\taxi-services\index.htm
+Content Type: text/html
+
+Uri: https://smscarrental.com/testimonials/
+File Name: D:\CLONE\smscarrental.com\testimonials\index.htm
+Content Type: text/html
+
+Uri: https://smscarrental.com/tourism-and-travels/
+File Name: D:\CLONE\smscarrental.com\tourism-and-travels\index.htm
+Content Type: text/html
+
+Uri: https://smscarrental.com/vehicle-models/
+File Name: D:\CLONE\smscarrental.com\vehicle-models\index.htm
+Content Type: text/html
+
+Uri: https://smscarrental.com/wp-content/plugins/carrental-essential/modules/elements/chart/assets/js/chart.js?ver=6.4.2
+File Name: D:\CLONE\smscarrental.com\wp-content\plugins\carrental-essential\modules\elements\chart\assets\js\chart.js
+Content Type: application/javascript
+
+Uri: https://smscarrental.com/wp-content/plugins/carrental-essential/modules/parallax/assets/css/style.css?ver=1.0.2
+File Name: D:\CLONE\smscarrental.com\wp-content\plugins\carrental-essential\modules\parallax\assets\css\style.css
+Content Type: text/css
+
+Uri: https://smscarrental.com/wp-content/plugins/carrental-essential/modules/parallax/assets/js/anime.js?ver=1.0.2
+File Name: D:\CLONE\smscarrental.com\wp-content\plugins\carrental-essential\modules\parallax\assets\js\anime.js
+Content Type: application/javascript
+
+Uri: https://smscarrental.com/wp-content/plugins/carrental-essential/modules/parallax/assets/js/jarallax.js?ver=1.0.2
+File Name: D:\CLONE\smscarrental.com\wp-content\plugins\carrental-essential\modules\parallax\assets\js\jarallax.js
+Content Type: application/javascript
+
+Uri: https://smscarrental.com/wp-content/plugins/carrental-essential/modules/parallax/assets/js/jquery.easing.1.3.js?ver=1.0.2
+File Name: D:\CLONE\smscarrental.com\wp-content\plugins\carrental-essential\modules\parallax\assets\js\jquery.easing.1.3.js
+Content Type: application/javascript
+
+Uri: https://smscarrental.com/wp-content/plugins/carrental-essential/modules/parallax/assets/js/magician.js?ver=1.0.2
+File Name: D:\CLONE\smscarrental.com\wp-content\plugins\carrental-essential\modules\parallax\assets\js\magician.js
+Content Type: application/javascript
+
+Uri: https://smscarrental.com/wp-content/plugins/carrental-essential/modules/parallax/assets/js/main.js?ver=1.0.2
+File Name: D:\CLONE\smscarrental.com\wp-content\plugins\carrental-essential\modules\parallax\assets\js\main.js
+Content Type: application/javascript
+
+Uri: https://smscarrental.com/wp-content/plugins/carrental-essential/modules/parallax/assets/js/tilt.jquery.min.js?ver=1.0.2
+File Name: D:\CLONE\smscarrental.com\wp-content\plugins\carrental-essential\modules\parallax\assets\js\tilt.jquery.min.js
+Content Type: application/javascript
+
+Uri: https://smscarrental.com/wp-content/plugins/carrental-essential/modules/parallax/assets/js/TweenMax.min.js?ver=1.0.2
+File Name: D:\CLONE\smscarrental.com\wp-content\plugins\carrental-essential\modules\parallax\assets\js\TweenMax.min.js
+Content Type: application/javascript
+
+Uri: https://smscarrental.com/wp-content/plugins/carrental-essential/modules/sticky-content/assets/js/init.js?ver=1.5.9
+File Name: D:\CLONE\smscarrental.com\wp-content\plugins\carrental-essential\modules\sticky-content\assets\js\init.js
+Content Type: application/javascript
+
+Uri: https://smscarrental.com/wp-content/plugins/carrental-essential/modules/sticky-content/assets/js/jquery.sticky.js?ver=1.5.9
+File Name: D:\CLONE\smscarrental.com\wp-content\plugins\carrental-essential\modules\sticky-content\assets\js\jquery.sticky.js
+Content Type: application/javascript
+
+Uri: https://smscarrental.com/wp-content/plugins/elementor-pro/assets/css/frontend-lite.min.css?ver=3.10.2
+File Name: D:\CLONE\smscarrental.com\wp-content\plugins\elementor-pro\assets\css\frontend-lite.min.css
+Content Type: text/css
+
+Uri: https://smscarrental.com/wp-content/plugins/elementor-pro/assets/js/elements-handlers.min.js?ver=3.10.2
+File Name: D:\CLONE\smscarrental.com\wp-content\plugins\elementor-pro\assets\js\elements-handlers.min.js
+Content Type: application/javascript
+
+Uri: https://smscarrental.com/wp-content/plugins/elementor-pro/assets/js/frontend.min.js?ver=3.10.2
+File Name: D:\CLONE\smscarrental.com\wp-content\plugins\elementor-pro\assets\js\frontend.min.js
+Content Type: application/javascript
+
+Uri: https://smscarrental.com/wp-content/plugins/elementor-pro/assets/js/webpack-pro.runtime.min.js?ver=3.10.2
+File Name: D:\CLONE\smscarrental.com\wp-content\plugins\elementor-pro\assets\js\webpack-pro.runtime.min.js
+Content Type: application/javascript
+
+Uri: https://smscarrental.com/wp-content/plugins/elementor/assets/css/frontend-lite.min.css?ver=3.16.4
+File Name: D:\CLONE\smscarrental.com\wp-content\plugins\elementor\assets\css\frontend-lite.min.css
+Content Type: text/css
+
+Uri: https://smscarrental.com/wp-content/plugins/elementor/assets/css/widget-icon-list.min.css
+File Name: D:\CLONE\smscarrental.com\wp-content\plugins\elementor\assets\css\widget-icon-list.min.css
+Content Type: text/css
+
+Uri: https://smscarrental.com/wp-content/plugins/elementor/assets/js/frontend-modules.min.js?ver=3.16.4
+File Name: D:\CLONE\smscarrental.com\wp-content\plugins\elementor\assets\js\frontend-modules.min.js
+Content Type: application/javascript
+
+Uri: https://smscarrental.com/wp-content/plugins/elementor/assets/js/frontend.min.js?ver=3.16.4
+File Name: D:\CLONE\smscarrental.com\wp-content\plugins\elementor\assets\js\frontend.min.js
+Content Type: application/javascript
+
+Uri: https://smscarrental.com/wp-content/plugins/elementor/assets/js/webpack.runtime.min.js?ver=3.16.4
+File Name: D:\CLONE\smscarrental.com\wp-content\plugins\elementor\assets\js\webpack.runtime.min.js
+Content Type: application/javascript
+
+Uri: https://smscarrental.com/wp-content/plugins/elementor/assets/lib/animations/animations.min.css?ver=3.16.4
+File Name: D:\CLONE\smscarrental.com\wp-content\plugins\elementor\assets\lib\animations\animations.min.css
+Content Type: text/css
+
+Uri: https://smscarrental.com/wp-content/plugins/elementor/assets/lib/e-gallery/css/e-gallery.min.css?ver=1.2.0
+File Name: D:\CLONE\smscarrental.com\wp-content\plugins\elementor\assets\lib\e-gallery\css\e-gallery.min.css
+Content Type: text/css
+
+Uri: https://smscarrental.com/wp-content/plugins/elementor/assets/lib/e-gallery/js/e-gallery.min.js?ver=1.2.0
+File Name: D:\CLONE\smscarrental.com\wp-content\plugins\elementor\assets\lib\e-gallery\js\e-gallery.min.js
+Content Type: application/javascript
+
+Uri: https://smscarrental.com/wp-content/plugins/elementor/assets/lib/eicons/css/elementor-icons.min.css?ver=5.23.0
+File Name: D:\CLONE\smscarrental.com\wp-content\plugins\elementor\assets\lib\eicons\css\elementor-icons.min.css
+Content Type: text/css
+
+Uri: https://smscarrental.com/wp-content/plugins/elementor/assets/lib/eicons/fonts/eicons.eot?5.23.0
+File Name: D:\CLONE\smscarrental.com\wp-content\plugins\elementor\assets\lib\eicons\fonts\eicons.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://smscarrental.com/wp-content/plugins/elementor/assets/lib/eicons/fonts/eicons.svg?5.23.0
+File Name: D:\CLONE\smscarrental.com\wp-content\plugins\elementor\assets\lib\eicons\fonts\eicons.svg
+Content Type: image/svg+xml
+
+Uri: https://smscarrental.com/wp-content/plugins/elementor/assets/lib/eicons/fonts/eicons.ttf?5.23.0
+File Name: D:\CLONE\smscarrental.com\wp-content\plugins\elementor\assets\lib\eicons\fonts\eicons.ttf
+Content Type: font/ttf
+
+Uri: https://smscarrental.com/wp-content/plugins/elementor/assets/lib/eicons/fonts/eicons.woff2?5.23.0
+File Name: D:\CLONE\smscarrental.com\wp-content\plugins\elementor\assets\lib\eicons\fonts\eicons.woff2
+Content Type: font/woff2
+
+Uri: https://smscarrental.com/wp-content/plugins/elementor/assets/lib/eicons/fonts/eicons.woff?5.23.0
+File Name: D:\CLONE\smscarrental.com\wp-content\plugins\elementor\assets\lib\eicons\fonts\eicons.woff
+Content Type: font/woff
+
+Uri: https://smscarrental.com/wp-content/plugins/elementor/assets/lib/font-awesome/css/all.min.css?ver=3.16.4
+File Name: D:\CLONE\smscarrental.com\wp-content\plugins\elementor\assets\lib\font-awesome\css\all.min.css
+Content Type: text/css
+
+Uri: https://smscarrental.com/wp-content/plugins/elementor/assets/lib/font-awesome/css/brands.min.css?ver=5.15.3
+File Name: D:\CLONE\smscarrental.com\wp-content\plugins\elementor\assets\lib\font-awesome\css\brands.min.css
+Content Type: text/css
+
+Uri: https://smscarrental.com/wp-content/plugins/elementor/assets/lib/font-awesome/css/font-awesome.min.css?ver=4.7.0
+File Name: D:\CLONE\smscarrental.com\wp-content\plugins\elementor\assets\lib\font-awesome\css\font-awesome.min.css
+Content Type: text/css
+
+Uri: https://smscarrental.com/wp-content/plugins/elementor/assets/lib/font-awesome/css/fontawesome.min.css?ver=5.15.3
+File Name: D:\CLONE\smscarrental.com\wp-content\plugins\elementor\assets\lib\font-awesome\css\fontawesome.min.css
+Content Type: text/css
+
+Uri: https://smscarrental.com/wp-content/plugins/elementor/assets/lib/font-awesome/css/solid.min.css?ver=5.15.3
+File Name: D:\CLONE\smscarrental.com\wp-content\plugins\elementor\assets\lib\font-awesome\css\solid.min.css
+Content Type: text/css
+
+Uri: https://smscarrental.com/wp-content/plugins/elementor/assets/lib/font-awesome/css/v4-shims.min.css?ver=3.16.4
+File Name: D:\CLONE\smscarrental.com\wp-content\plugins\elementor\assets\lib\font-awesome\css\v4-shims.min.css
+Content Type: text/css
+
+Uri: https://smscarrental.com/wp-content/plugins/elementor/assets/lib/font-awesome/fonts/fontawesome-webfont.eot?
+File Name: D:\CLONE\smscarrental.com\wp-content\plugins\elementor\assets\lib\font-awesome\fonts\fontawesome-webfont-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://smscarrental.com/wp-content/plugins/elementor/assets/lib/font-awesome/fonts/fontawesome-webfont.eot?v=4.7.0
+File Name: D:\CLONE\smscarrental.com\wp-content\plugins\elementor\assets\lib\font-awesome\fonts\fontawesome-webfont.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://smscarrental.com/wp-content/plugins/elementor/assets/lib/font-awesome/fonts/fontawesome-webfont.svg?v=4.7.0
+File Name: D:\CLONE\smscarrental.com\wp-content\plugins\elementor\assets\lib\font-awesome\fonts\fontawesome-webfont.svg
+Content Type: image/svg+xml
+
+Uri: https://smscarrental.com/wp-content/plugins/elementor/assets/lib/font-awesome/fonts/fontawesome-webfont.ttf?v=4.7.0
+File Name: D:\CLONE\smscarrental.com\wp-content\plugins\elementor\assets\lib\font-awesome\fonts\fontawesome-webfont.ttf
+Content Type: font/ttf
+
+Uri: https://smscarrental.com/wp-content/plugins/elementor/assets/lib/font-awesome/fonts/fontawesome-webfont.woff2?v=4.7.0
+File Name: D:\CLONE\smscarrental.com\wp-content\plugins\elementor\assets\lib\font-awesome\fonts\fontawesome-webfont.woff2
+Content Type: font/woff2
+
+Uri: https://smscarrental.com/wp-content/plugins/elementor/assets/lib/font-awesome/fonts/fontawesome-webfont.woff?v=4.7.0
+File Name: D:\CLONE\smscarrental.com\wp-content\plugins\elementor\assets\lib\font-awesome\fonts\fontawesome-webfont.woff
+Content Type: font/woff
+
+Uri: https://smscarrental.com/wp-content/plugins/elementor/assets/lib/font-awesome/js/v4-shims.min.js?ver=3.16.4
+File Name: D:\CLONE\smscarrental.com\wp-content\plugins\elementor\assets\lib\font-awesome\js\v4-shims.min.js
+Content Type: application/javascript
+
+Uri: https://smscarrental.com/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-brands-400.eot
+File Name: D:\CLONE\smscarrental.com\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-brands-400.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://smscarrental.com/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-brands-400.eot?
+File Name: D:\CLONE\smscarrental.com\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-brands-400-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://smscarrental.com/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-brands-400.svg
+File Name: D:\CLONE\smscarrental.com\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-brands-400.svg
+Content Type: image/svg+xml
+
+Uri: https://smscarrental.com/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-brands-400.ttf
+File Name: D:\CLONE\smscarrental.com\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-brands-400.ttf
+Content Type: font/ttf
+
+Uri: https://smscarrental.com/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-brands-400.woff
+File Name: D:\CLONE\smscarrental.com\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-brands-400.woff
+Content Type: font/woff
+
+Uri: https://smscarrental.com/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-brands-400.woff2
+File Name: D:\CLONE\smscarrental.com\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-brands-400.woff2
+Content Type: font/woff2
+
+Uri: https://smscarrental.com/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-regular-400.eot
+File Name: D:\CLONE\smscarrental.com\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-regular-400.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://smscarrental.com/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-regular-400.eot?
+File Name: D:\CLONE\smscarrental.com\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-regular-400-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://smscarrental.com/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-regular-400.svg
+File Name: D:\CLONE\smscarrental.com\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-regular-400.svg
+Content Type: image/svg+xml
+
+Uri: https://smscarrental.com/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-regular-400.ttf
+File Name: D:\CLONE\smscarrental.com\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-regular-400.ttf
+Content Type: font/ttf
+
+Uri: https://smscarrental.com/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-regular-400.woff
+File Name: D:\CLONE\smscarrental.com\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-regular-400.woff
+Content Type: font/woff
+
+Uri: https://smscarrental.com/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-regular-400.woff2
+File Name: D:\CLONE\smscarrental.com\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-regular-400.woff2
+Content Type: font/woff2
+
+Uri: https://smscarrental.com/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-solid-900.eot
+File Name: D:\CLONE\smscarrental.com\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-solid-900.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://smscarrental.com/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-solid-900.eot?
+File Name: D:\CLONE\smscarrental.com\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-solid-900-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://smscarrental.com/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-solid-900.svg
+File Name: D:\CLONE\smscarrental.com\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-solid-900.svg
+Content Type: image/svg+xml
+
+Uri: https://smscarrental.com/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-solid-900.ttf
+File Name: D:\CLONE\smscarrental.com\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-solid-900.ttf
+Content Type: font/ttf
+
+Uri: https://smscarrental.com/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-solid-900.woff
+File Name: D:\CLONE\smscarrental.com\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-solid-900.woff
+Content Type: font/woff
+
+Uri: https://smscarrental.com/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-solid-900.woff2
+File Name: D:\CLONE\smscarrental.com\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-solid-900.woff2
+Content Type: font/woff2
+
+Uri: https://smscarrental.com/wp-content/plugins/elementor/assets/lib/swiper/v8/css/swiper.min.css?ver=8.4.5
+File Name: D:\CLONE\smscarrental.com\wp-content\plugins\elementor\assets\lib\swiper\v8\css\swiper.min.css
+Content Type: text/css
+
+Uri: https://smscarrental.com/wp-content/plugins/elementor/assets/lib/waypoints/waypoints.min.js?ver=4.0.2
+File Name: D:\CLONE\smscarrental.com\wp-content\plugins\elementor\assets\lib\waypoints\waypoints.min.js
+Content Type: application/javascript
+
+Uri: https://smscarrental.com/wp-content/plugins/elementskit-lite/libs/framework/assets/js/frontend-script.js?ver=3.0.0
+File Name: D:\CLONE\smscarrental.com\wp-content\plugins\elementskit-lite\libs\framework\assets\js\frontend-script.js
+Content Type: application/javascript
+
+Uri: https://smscarrental.com/wp-content/plugins/elementskit-lite/modules/elementskit-icon-pack/assets/css/ekiticons.css?ver=3.0.0
+File Name: D:\CLONE\smscarrental.com\wp-content\plugins\elementskit-lite\modules\elementskit-icon-pack\assets\css\ekiticons.css
+Content Type: text/css
+
+Uri: https://smscarrental.com/wp-content/plugins/elementskit-lite/modules/elementskit-icon-pack/assets/fonts/elementskit.woff?y24e1e
+File Name: D:\CLONE\smscarrental.com\wp-content\plugins\elementskit-lite\modules\elementskit-icon-pack\assets\fonts\elementskit.woff
+Content Type: font/woff
+
+Uri: https://smscarrental.com/wp-content/plugins/elementskit-lite/widgets/init/assets/css/odometer-theme-default.css?ver=3.0.0
+File Name: D:\CLONE\smscarrental.com\wp-content\plugins\elementskit-lite\widgets\init\assets\css\odometer-theme-default.css
+Content Type: text/css
+
+Uri: https://smscarrental.com/wp-content/plugins/elementskit-lite/widgets/init/assets/css/responsive.css?ver=3.0.0
+File Name: D:\CLONE\smscarrental.com\wp-content\plugins\elementskit-lite\widgets\init\assets\css\responsive.css
+Content Type: text/css
+
+Uri: https://smscarrental.com/wp-content/plugins/elementskit-lite/widgets/init/assets/css/widget-styles.css?ver=3.0.0
+File Name: D:\CLONE\smscarrental.com\wp-content\plugins\elementskit-lite\widgets\init\assets\css\widget-styles.css
+Content Type: text/css
+
+Uri: https://smscarrental.com/wp-content/plugins/elementskit-lite/widgets/init/assets/img/arrow.png
+File Name: D:\CLONE\smscarrental.com\wp-content\plugins\elementskit-lite\widgets\init\assets\img\arrow.png
+Content Type: image/png
+
+Uri: https://smscarrental.com/wp-content/plugins/elementskit-lite/widgets/init/assets/img/cross-out.svg
+File Name: D:\CLONE\smscarrental.com\wp-content\plugins\elementskit-lite\widgets\init\assets\img\cross-out.svg
+Content Type: image/svg+xml
+
+Uri: https://smscarrental.com/wp-content/plugins/elementskit-lite/widgets/init/assets/img/sort_asc.png
+File Name: D:\CLONE\smscarrental.com\wp-content\plugins\elementskit-lite\widgets\init\assets\img\sort_asc.png
+Content Type: image/png
+
+Uri: https://smscarrental.com/wp-content/plugins/elementskit-lite/widgets/init/assets/img/sort_asc_disabled.png
+File Name: D:\CLONE\smscarrental.com\wp-content\plugins\elementskit-lite\widgets\init\assets\img\sort_asc_disabled.png
+Content Type: image/png
+
+Uri: https://smscarrental.com/wp-content/plugins/elementskit-lite/widgets/init/assets/img/sort_desc.png
+File Name: D:\CLONE\smscarrental.com\wp-content\plugins\elementskit-lite\widgets\init\assets\img\sort_desc.png
+Content Type: image/png
+
+Uri: https://smscarrental.com/wp-content/plugins/elementskit-lite/widgets/init/assets/js/animate-circle.min.js?ver=3.0.0
+File Name: D:\CLONE\smscarrental.com\wp-content\plugins\elementskit-lite\widgets\init\assets\js\animate-circle.min.js
+Content Type: application/javascript
+
+Uri: https://smscarrental.com/wp-content/plugins/elementskit-lite/widgets/init/assets/js/elementor.js?ver=3.0.0
+File Name: D:\CLONE\smscarrental.com\wp-content\plugins\elementskit-lite\widgets\init\assets\js\elementor.js
+Content Type: application/javascript
+
+Uri: https://smscarrental.com/wp-content/plugins/elementskit-lite/widgets/init/assets/js/odometer.min.js?ver=3.0.0
+File Name: D:\CLONE\smscarrental.com\wp-content\plugins\elementskit-lite\widgets\init\assets\js\odometer.min.js
+Content Type: application/javascript
+
+Uri: https://smscarrental.com/wp-content/plugins/elementskit-lite/widgets/init/assets/js/widget-scripts.js?ver=3.0.0
+File Name: D:\CLONE\smscarrental.com\wp-content\plugins\elementskit-lite\widgets\init\assets\js\widget-scripts.js
+Content Type: application/javascript
+
+Uri: https://smscarrental.com/wp-content/plugins/metform-pro/public/assets/css/style.min.css?ver=3.2.0
+File Name: D:\CLONE\smscarrental.com\wp-content\plugins\metform-pro\public\assets\css\style.min.css
+Content Type: text/css
+
+Uri: https://smscarrental.com/wp-content/plugins/metform-pro/public/assets/img/credit-cards/card-amex.png
+File Name: D:\CLONE\smscarrental.com\wp-content\plugins\metform-pro\public\assets\img\credit-cards\card-amex.png
+Content Type: image/png
+
+Uri: https://smscarrental.com/wp-content/plugins/metform-pro/public/assets/img/credit-cards/card-custom.svg
+File Name: D:\CLONE\smscarrental.com\wp-content\plugins\metform-pro\public\assets\img\credit-cards\card-custom.svg
+Content Type: image/svg+xml
+
+Uri: https://smscarrental.com/wp-content/plugins/metform-pro/public/assets/img/credit-cards/card-discover.png
+File Name: D:\CLONE\smscarrental.com\wp-content\plugins\metform-pro\public\assets\img\credit-cards\card-discover.png
+Content Type: image/png
+
+Uri: https://smscarrental.com/wp-content/plugins/metform-pro/public/assets/img/credit-cards/card-master.svg
+File Name: D:\CLONE\smscarrental.com\wp-content\plugins\metform-pro\public\assets\img\credit-cards\card-master.svg
+Content Type: image/svg+xml
+
+Uri: https://smscarrental.com/wp-content/plugins/metform-pro/public/assets/img/credit-cards/card-visa.png
+File Name: D:\CLONE\smscarrental.com\wp-content\plugins\metform-pro\public\assets\img\credit-cards\card-visa.png
+Content Type: image/png
+
+Uri: https://smscarrental.com/wp-content/plugins/metform-pro/public/assets/js/repeater.js?ver=3.2.0
+File Name: D:\CLONE\smscarrental.com\wp-content\plugins\metform-pro\public\assets\js\repeater.js
+Content Type: application/javascript
+
+Uri: https://smscarrental.com/wp-content/plugins/metform/public/assets/css/metform-ui.css?ver=3.5.0
+File Name: D:\CLONE\smscarrental.com\wp-content\plugins\metform\public\assets\css\metform-ui.css
+Content Type: text/css
+
+Uri: https://smscarrental.com/wp-content/plugins/metform/public/assets/css/style.css?ver=3.5.0
+File Name: D:\CLONE\smscarrental.com\wp-content\plugins\metform\public\assets\css\style.css
+Content Type: text/css
+
+Uri: https://smscarrental.com/wp-content/plugins/metform/public/assets/css/text-editor.css?ver=3.5.0
+File Name: D:\CLONE\smscarrental.com\wp-content\plugins\metform\public\assets\css\text-editor.css
+Content Type: text/css
+
+Uri: https://smscarrental.com/wp-content/plugins/metform/public/assets/js/app.js?ver=3.5.0
+File Name: D:\CLONE\smscarrental.com\wp-content\plugins\metform\public\assets\js\app.js
+Content Type: application/javascript
+
+Uri: https://smscarrental.com/wp-content/plugins/metform/public/assets/js/htm.js?ver=3.5.0
+File Name: D:\CLONE\smscarrental.com\wp-content\plugins\metform\public\assets\js\htm.js
+Content Type: application/javascript
+
+Uri: https://smscarrental.com/wp-content/themes/carrental/assets/css/blog.css?ver=3.0.2
+File Name: D:\CLONE\smscarrental.com\wp-content\themes\carrental\assets\css\blog.css
+Content Type: text/css
+
+Uri: https://smscarrental.com/wp-content/themes/carrental/assets/css/bootstrap.min.css?ver=3.0.2
+File Name: D:\CLONE\smscarrental.com\wp-content\themes\carrental\assets\css\bootstrap.min.css
+Content Type: text/css
+
+Uri: https://smscarrental.com/wp-content/themes/carrental/assets/css/datepicker.css?ver=3.0.2
+File Name: D:\CLONE\smscarrental.com\wp-content\themes\carrental\assets\css\datepicker.css
+Content Type: text/css
+
+Uri: https://smscarrental.com/wp-content/themes/carrental/assets/css/gutenberg-custom.css?ver=3.0.2
+File Name: D:\CLONE\smscarrental.com\wp-content\themes\carrental\assets\css\gutenberg-custom.css
+Content Type: text/css
+
+Uri: https://smscarrental.com/wp-content/themes/carrental/assets/css/icon-font.css?ver=3.0.2
+File Name: D:\CLONE\smscarrental.com\wp-content\themes\carrental\assets\css\icon-font.css
+Content Type: text/css
+
+Uri: https://smscarrental.com/wp-content/themes/carrental/assets/css/master.css?ver=3.0.2
+File Name: D:\CLONE\smscarrental.com\wp-content\themes\carrental\assets\css\master.css
+Content Type: text/css
+
+Uri: https://smscarrental.com/wp-content/themes/carrental/assets/css/xs-woocommerce.css?ver=3.0.2
+File Name: D:\CLONE\smscarrental.com\wp-content\themes\carrental\assets\css\xs-woocommerce.css
+Content Type: text/css
+
+Uri: https://smscarrental.com/wp-content/themes/carrental/assets/fonts/elementskit.svg?y24e1e
+File Name: D:\CLONE\smscarrental.com\wp-content\themes\carrental\assets\fonts\elementskit.svg
+Content Type: image/svg+xml
+
+Uri: https://smscarrental.com/wp-content/themes/carrental/assets/fonts/elementskit.ttf?y24e1e
+File Name: D:\CLONE\smscarrental.com\wp-content\themes\carrental\assets\fonts\elementskit.ttf
+Content Type: font/ttf
+
+Uri: https://smscarrental.com/wp-content/themes/carrental/assets/fonts/elementskit.woff?y24e1e
+File Name: D:\CLONE\smscarrental.com\wp-content\themes\carrental\assets\fonts\elementskit.woff
+Content Type: font/woff
+
+Uri: https://smscarrental.com/wp-content/themes/carrental/assets/images/banner/bredcumbs-1.png
+File Name: D:\CLONE\smscarrental.com\wp-content\themes\carrental\assets\images\banner\bredcumbs-1.png
+Content Type: image/png
+
+Uri: https://smscarrental.com/wp-content/themes/carrental/assets/images/dropdown-icon-2.png
+File Name: D:\CLONE\smscarrental.com\wp-content\themes\carrental\assets\images\dropdown-icon-2.png
+Content Type: image/png
+
+Uri: https://smscarrental.com/wp-content/themes/carrental/assets/images/dropdown-icon.png
+File Name: D:\CLONE\smscarrental.com\wp-content\themes\carrental\assets\images\dropdown-icon.png
+Content Type: image/png
+
+Uri: https://smscarrental.com/wp-content/themes/carrental/assets/js/bootstrap-datepicker.js?ver=3.0.2
+File Name: D:\CLONE\smscarrental.com\wp-content\themes\carrental\assets\js\bootstrap-datepicker.js
+Content Type: application/javascript
+
+Uri: https://smscarrental.com/wp-content/themes/carrental/assets/js/bootstrap.min.js?ver=3.0.2
+File Name: D:\CLONE\smscarrental.com\wp-content\themes\carrental\assets\js\bootstrap.min.js
+Content Type: application/javascript
+
+Uri: https://smscarrental.com/wp-content/themes/carrental/assets/js/elementor.js?ver=3.0.2
+File Name: D:\CLONE\smscarrental.com\wp-content\themes\carrental\assets\js\elementor.js
+Content Type: application/javascript
+
+Uri: https://smscarrental.com/wp-content/themes/carrental/assets/js/Popper.js?ver=3.0.2
+File Name: D:\CLONE\smscarrental.com\wp-content\themes\carrental\assets\js\Popper.js
+Content Type: application/javascript
+
+Uri: https://smscarrental.com/wp-content/themes/carrental/assets/js/script.js?ver=3.0.2
+File Name: D:\CLONE\smscarrental.com\wp-content\themes\carrental\assets\js\script.js
+Content Type: application/javascript
+
+Uri: https://smscarrental.com/wp-content/uploads/2020/06/car_image-1.jpg
+File Name: D:\CLONE\smscarrental.com\wp-content\uploads\2020\06\car_image-1.jpg
+Content Type: image/jpeg
+
+Uri: https://smscarrental.com/wp-content/uploads/2020/06/header_logo_min-1.png
+File Name: D:\CLONE\smscarrental.com\wp-content\uploads\2020\06\header_logo_min-1.png
+Content Type: image/png
+
+Uri: https://smscarrental.com/wp-content/uploads/2020/07/car11-2-300x164.png
+File Name: D:\CLONE\smscarrental.com\wp-content\uploads\2020\07\car11-2-300x164.png
+Content Type: image/png
+
+Uri: https://smscarrental.com/wp-content/uploads/2020/07/car11-2.png
+File Name: D:\CLONE\smscarrental.com\wp-content\uploads\2020\07\car11-2.png
+Content Type: image/png
+
+Uri: https://smscarrental.com/wp-content/uploads/2020/07/car21-2-300x146.png
+File Name: D:\CLONE\smscarrental.com\wp-content\uploads\2020\07\car21-2-300x146.png
+Content Type: image/png
+
+Uri: https://smscarrental.com/wp-content/uploads/2020/07/car21-2.png
+File Name: D:\CLONE\smscarrental.com\wp-content\uploads\2020\07\car21-2.png
+Content Type: image/png
+
+Uri: https://smscarrental.com/wp-content/uploads/2020/07/start-1.png
+File Name: D:\CLONE\smscarrental.com\wp-content\uploads\2020\07\start-1.png
+Content Type: image/png
+
+Uri: https://smscarrental.com/wp-content/uploads/2020/07/vehicle-01-1-300x228.jpg
+File Name: D:\CLONE\smscarrental.com\wp-content\uploads\2020\07\vehicle-01-1-300x228.jpg
+Content Type: image/jpeg
+
+Uri: https://smscarrental.com/wp-content/uploads/2020/07/vehicle-01-1.jpg
+File Name: D:\CLONE\smscarrental.com\wp-content\uploads\2020\07\vehicle-01-1.jpg
+Content Type: image/jpeg
+
+Uri: https://smscarrental.com/wp-content/uploads/2020/07/vehicle-02-1-300x228.jpg
+File Name: D:\CLONE\smscarrental.com\wp-content\uploads\2020\07\vehicle-02-1-300x228.jpg
+Content Type: image/jpeg
+
+Uri: https://smscarrental.com/wp-content/uploads/2020/07/vehicle-02-1.jpg
+File Name: D:\CLONE\smscarrental.com\wp-content\uploads\2020\07\vehicle-02-1.jpg
+Content Type: image/jpeg
+
+Uri: https://smscarrental.com/wp-content/uploads/2020/07/vehicle-03-1-300x228.jpg
+File Name: D:\CLONE\smscarrental.com\wp-content\uploads\2020\07\vehicle-03-1-300x228.jpg
+Content Type: image/jpeg
+
+Uri: https://smscarrental.com/wp-content/uploads/2020/07/vehicle-03-1.jpg
+File Name: D:\CLONE\smscarrental.com\wp-content\uploads\2020\07\vehicle-03-1.jpg
+Content Type: image/jpeg
+
+Uri: https://smscarrental.com/wp-content/uploads/2020/07/vehicle-04-1-300x228.jpg
+File Name: D:\CLONE\smscarrental.com\wp-content\uploads\2020\07\vehicle-04-1-300x228.jpg
+Content Type: image/jpeg
+
+Uri: https://smscarrental.com/wp-content/uploads/2020/07/vehicle-04-1.jpg
+File Name: D:\CLONE\smscarrental.com\wp-content\uploads\2020\07\vehicle-04-1.jpg
+Content Type: image/jpeg
+
+Uri: https://smscarrental.com/wp-content/uploads/2020/07/vehicle-05-1-300x228.jpg
+File Name: D:\CLONE\smscarrental.com\wp-content\uploads\2020\07\vehicle-05-1-300x228.jpg
+Content Type: image/jpeg
+
+Uri: https://smscarrental.com/wp-content/uploads/2020/07/vehicle-05-1.jpg
+File Name: D:\CLONE\smscarrental.com\wp-content\uploads\2020\07\vehicle-05-1.jpg
+Content Type: image/jpeg
+
+Uri: https://smscarrental.com/wp-content/uploads/2020/07/vehicle-06-1-300x228.jpg
+File Name: D:\CLONE\smscarrental.com\wp-content\uploads\2020\07\vehicle-06-1-300x228.jpg
+Content Type: image/jpeg
+
+Uri: https://smscarrental.com/wp-content/uploads/2020/07/vehicle-06-1.jpg
+File Name: D:\CLONE\smscarrental.com\wp-content\uploads\2020\07\vehicle-06-1.jpg
+Content Type: image/jpeg
+
+Uri: https://smscarrental.com/wp-content/uploads/2023/10/2023-08-05-1.jpg
+File Name: D:\CLONE\smscarrental.com\wp-content\uploads\2023\10\2023-08-05-1.jpg
+Content Type: image/jpeg
+
+Uri: https://smscarrental.com/wp-content/uploads/2023/10/2023-08-05-3.jpg
+File Name: D:\CLONE\smscarrental.com\wp-content\uploads\2023\10\2023-08-05-3.jpg
+Content Type: image/jpeg
+
+Uri: https://smscarrental.com/wp-content/uploads/2023/10/2023-08-05-4.jpg
+File Name: D:\CLONE\smscarrental.com\wp-content\uploads\2023\10\2023-08-05-4.jpg
+Content Type: image/jpeg
+
+Uri: https://smscarrental.com/wp-content/uploads/2023/10/2023-08-05.jpg
+File Name: D:\CLONE\smscarrental.com\wp-content\uploads\2023\10\2023-08-05.jpg
+Content Type: image/jpeg
+
+Uri: https://smscarrental.com/wp-content/uploads/2023/10/2023-08-06-1.jpg
+File Name: D:\CLONE\smscarrental.com\wp-content\uploads\2023\10\2023-08-06-1.jpg
+Content Type: image/jpeg
+
+Uri: https://smscarrental.com/wp-content/uploads/2023/10/2023-08-06-2.jpg
+File Name: D:\CLONE\smscarrental.com\wp-content\uploads\2023\10\2023-08-06-2.jpg
+Content Type: image/jpeg
+
+Uri: https://smscarrental.com/wp-content/uploads/2023/10/2023-08-06-3.jpg
+File Name: D:\CLONE\smscarrental.com\wp-content\uploads\2023\10\2023-08-06-3.jpg
+Content Type: image/jpeg
+
+Uri: https://smscarrental.com/wp-content/uploads/2023/10/2023-08-06-4.jpg
+File Name: D:\CLONE\smscarrental.com\wp-content\uploads\2023\10\2023-08-06-4.jpg
+Content Type: image/jpeg
+
+Uri: https://smscarrental.com/wp-content/uploads/2023/10/2023-08-06.jpg
+File Name: D:\CLONE\smscarrental.com\wp-content\uploads\2023\10\2023-08-06.jpg
+Content Type: image/jpeg
+
+Uri: https://smscarrental.com/wp-content/uploads/2023/10/2023-08-16-1-1024x469.jpg
+File Name: D:\CLONE\smscarrental.com\wp-content\uploads\2023\10\2023-08-16-1-1024x469.jpg
+Content Type: image/jpeg
+
+Uri: https://smscarrental.com/wp-content/uploads/2023/10/2023-08-16-1-300x138.jpg
+File Name: D:\CLONE\smscarrental.com\wp-content\uploads\2023\10\2023-08-16-1-300x138.jpg
+Content Type: image/jpeg
+
+Uri: https://smscarrental.com/wp-content/uploads/2023/10/2023-08-16-1-768x352.jpg
+File Name: D:\CLONE\smscarrental.com\wp-content\uploads\2023\10\2023-08-16-1-768x352.jpg
+Content Type: image/jpeg
+
+Uri: https://smscarrental.com/wp-content/uploads/2023/10/2023-08-16-1.jpg
+File Name: D:\CLONE\smscarrental.com\wp-content\uploads\2023\10\2023-08-16-1.jpg
+Content Type: image/jpeg
+
+Uri: https://smscarrental.com/wp-content/uploads/2023/10/2023-08-16-13-1024x462.jpg
+File Name: D:\CLONE\smscarrental.com\wp-content\uploads\2023\10\2023-08-16-13-1024x462.jpg
+Content Type: image/jpeg
+
+Uri: https://smscarrental.com/wp-content/uploads/2023/10/2023-08-16-13-300x135.jpg
+File Name: D:\CLONE\smscarrental.com\wp-content\uploads\2023\10\2023-08-16-13-300x135.jpg
+Content Type: image/jpeg
+
+Uri: https://smscarrental.com/wp-content/uploads/2023/10/2023-08-16-13-768x347.jpg
+File Name: D:\CLONE\smscarrental.com\wp-content\uploads\2023\10\2023-08-16-13-768x347.jpg
+Content Type: image/jpeg
+
+Uri: https://smscarrental.com/wp-content/uploads/2023/10/2023-08-16-13.jpg
+File Name: D:\CLONE\smscarrental.com\wp-content\uploads\2023\10\2023-08-16-13.jpg
+Content Type: image/jpeg
+
+Uri: https://smscarrental.com/wp-content/uploads/2023/10/2023-08-16-14.jpg
+File Name: D:\CLONE\smscarrental.com\wp-content\uploads\2023\10\2023-08-16-14.jpg
+Content Type: image/jpeg
+
+Uri: https://smscarrental.com/wp-content/uploads/2023/10/2023-08-16-15.jpg
+File Name: D:\CLONE\smscarrental.com\wp-content\uploads\2023\10\2023-08-16-15.jpg
+Content Type: image/jpeg
+
+Uri: https://smscarrental.com/wp-content/uploads/2023/10/2023-08-16-16-300x142.jpg
+File Name: D:\CLONE\smscarrental.com\wp-content\uploads\2023\10\2023-08-16-16-300x142.jpg
+Content Type: image/jpeg
+
+Uri: https://smscarrental.com/wp-content/uploads/2023/10/2023-08-16-16-768x364.jpg
+File Name: D:\CLONE\smscarrental.com\wp-content\uploads\2023\10\2023-08-16-16-768x364.jpg
+Content Type: image/jpeg
+
+Uri: https://smscarrental.com/wp-content/uploads/2023/10/2023-08-16-16.jpg
+File Name: D:\CLONE\smscarrental.com\wp-content\uploads\2023\10\2023-08-16-16.jpg
+Content Type: image/jpeg
+
+Uri: https://smscarrental.com/wp-content/uploads/2023/10/2023-08-16-18.jpg
+File Name: D:\CLONE\smscarrental.com\wp-content\uploads\2023\10\2023-08-16-18.jpg
+Content Type: image/jpeg
+
+Uri: https://smscarrental.com/wp-content/uploads/2023/10/2023-08-16-19-225x300.jpg
+File Name: D:\CLONE\smscarrental.com\wp-content\uploads\2023\10\2023-08-16-19-225x300.jpg
+Content Type: image/jpeg
+
+Uri: https://smscarrental.com/wp-content/uploads/2023/10/2023-08-16-19.jpg
+File Name: D:\CLONE\smscarrental.com\wp-content\uploads\2023\10\2023-08-16-19.jpg
+Content Type: image/jpeg
+
+Uri: https://smscarrental.com/wp-content/uploads/2023/10/2023-08-16-2-1024x768.jpg
+File Name: D:\CLONE\smscarrental.com\wp-content\uploads\2023\10\2023-08-16-2-1024x768.jpg
+Content Type: image/jpeg
+
+Uri: https://smscarrental.com/wp-content/uploads/2023/10/2023-08-16-2-300x225.jpg
+File Name: D:\CLONE\smscarrental.com\wp-content\uploads\2023\10\2023-08-16-2-300x225.jpg
+Content Type: image/jpeg
+
+Uri: https://smscarrental.com/wp-content/uploads/2023/10/2023-08-16-2-768x576.jpg
+File Name: D:\CLONE\smscarrental.com\wp-content\uploads\2023\10\2023-08-16-2-768x576.jpg
+Content Type: image/jpeg
+
+Uri: https://smscarrental.com/wp-content/uploads/2023/10/2023-08-16-2.jpg
+File Name: D:\CLONE\smscarrental.com\wp-content\uploads\2023\10\2023-08-16-2.jpg
+Content Type: image/jpeg
+
+Uri: https://smscarrental.com/wp-content/uploads/2023/10/2023-08-16-20-1.jpg
+File Name: D:\CLONE\smscarrental.com\wp-content\uploads\2023\10\2023-08-16-20-1.jpg
+Content Type: image/jpeg
+
+Uri: https://smscarrental.com/wp-content/uploads/2023/10/2023-08-16-20.jpg
+File Name: D:\CLONE\smscarrental.com\wp-content\uploads\2023\10\2023-08-16-20.jpg
+Content Type: image/jpeg
+
+Uri: https://smscarrental.com/wp-content/uploads/2023/10/2023-08-16-3-300x225.jpg
+File Name: D:\CLONE\smscarrental.com\wp-content\uploads\2023\10\2023-08-16-3-300x225.jpg
+Content Type: image/jpeg
+
+Uri: https://smscarrental.com/wp-content/uploads/2023/10/2023-08-16-3-768x576.jpg
+File Name: D:\CLONE\smscarrental.com\wp-content\uploads\2023\10\2023-08-16-3-768x576.jpg
+Content Type: image/jpeg
+
+Uri: https://smscarrental.com/wp-content/uploads/2023/10/2023-08-16-3.jpg
+File Name: D:\CLONE\smscarrental.com\wp-content\uploads\2023\10\2023-08-16-3.jpg
+Content Type: image/jpeg
+
+Uri: https://smscarrental.com/wp-content/uploads/2023/10/2023-08-16-4.jpg
+File Name: D:\CLONE\smscarrental.com\wp-content\uploads\2023\10\2023-08-16-4.jpg
+Content Type: image/jpeg
+
+Uri: https://smscarrental.com/wp-content/uploads/2023/10/2023-08-16-5-1024x462.jpg
+File Name: D:\CLONE\smscarrental.com\wp-content\uploads\2023\10\2023-08-16-5-1024x462.jpg
+Content Type: image/jpeg
+
+Uri: https://smscarrental.com/wp-content/uploads/2023/10/2023-08-16-5-300x135.jpg
+File Name: D:\CLONE\smscarrental.com\wp-content\uploads\2023\10\2023-08-16-5-300x135.jpg
+Content Type: image/jpeg
+
+Uri: https://smscarrental.com/wp-content/uploads/2023/10/2023-08-16-5-768x347.jpg
+File Name: D:\CLONE\smscarrental.com\wp-content\uploads\2023\10\2023-08-16-5-768x347.jpg
+Content Type: image/jpeg
+
+Uri: https://smscarrental.com/wp-content/uploads/2023/10/2023-08-16-5.jpg
+File Name: D:\CLONE\smscarrental.com\wp-content\uploads\2023\10\2023-08-16-5.jpg
+Content Type: image/jpeg
+
+Uri: https://smscarrental.com/wp-content/uploads/2023/10/2023-08-16-6-1024x576.jpg
+File Name: D:\CLONE\smscarrental.com\wp-content\uploads\2023\10\2023-08-16-6-1024x576.jpg
+Content Type: image/jpeg
+
+Uri: https://smscarrental.com/wp-content/uploads/2023/10/2023-08-16-6-300x169.jpg
+File Name: D:\CLONE\smscarrental.com\wp-content\uploads\2023\10\2023-08-16-6-300x169.jpg
+Content Type: image/jpeg
+
+Uri: https://smscarrental.com/wp-content/uploads/2023/10/2023-08-16-6-768x432.jpg
+File Name: D:\CLONE\smscarrental.com\wp-content\uploads\2023\10\2023-08-16-6-768x432.jpg
+Content Type: image/jpeg
+
+Uri: https://smscarrental.com/wp-content/uploads/2023/10/2023-08-16-6.jpg
+File Name: D:\CLONE\smscarrental.com\wp-content\uploads\2023\10\2023-08-16-6.jpg
+Content Type: image/jpeg
+
+Uri: https://smscarrental.com/wp-content/uploads/2023/10/2023-08-16-8-225x300.jpg
+File Name: D:\CLONE\smscarrental.com\wp-content\uploads\2023\10\2023-08-16-8-225x300.jpg
+Content Type: image/jpeg
+
+Uri: https://smscarrental.com/wp-content/uploads/2023/10/2023-08-16-8.jpg
+File Name: D:\CLONE\smscarrental.com\wp-content\uploads\2023\10\2023-08-16-8.jpg
+Content Type: image/jpeg
+
+Uri: https://smscarrental.com/wp-content/uploads/2023/10/2023-08-16-9-1024x768.jpg
+File Name: D:\CLONE\smscarrental.com\wp-content\uploads\2023\10\2023-08-16-9-1024x768.jpg
+Content Type: image/jpeg
+
+Uri: https://smscarrental.com/wp-content/uploads/2023/10/2023-08-16-9-300x225.jpg
+File Name: D:\CLONE\smscarrental.com\wp-content\uploads\2023\10\2023-08-16-9-300x225.jpg
+Content Type: image/jpeg
+
+Uri: https://smscarrental.com/wp-content/uploads/2023/10/2023-08-16-9-768x576.jpg
+File Name: D:\CLONE\smscarrental.com\wp-content\uploads\2023\10\2023-08-16-9-768x576.jpg
+Content Type: image/jpeg
+
+Uri: https://smscarrental.com/wp-content/uploads/2023/10/2023-08-16-9.jpg
+File Name: D:\CLONE\smscarrental.com\wp-content\uploads\2023\10\2023-08-16-9.jpg
+Content Type: image/jpeg
+
+Uri: https://smscarrental.com/wp-content/uploads/2023/10/2023-08-20.jpg
+File Name: D:\CLONE\smscarrental.com\wp-content\uploads\2023\10\2023-08-20.jpg
+Content Type: image/jpeg
+
+Uri: https://smscarrental.com/wp-content/uploads/2023/10/2023-08-23-1-300x199.jpg
+File Name: D:\CLONE\smscarrental.com\wp-content\uploads\2023\10\2023-08-23-1-300x199.jpg
+Content Type: image/jpeg
+
+Uri: https://smscarrental.com/wp-content/uploads/2023/10/2023-08-23-1-768x510.jpg
+File Name: D:\CLONE\smscarrental.com\wp-content\uploads\2023\10\2023-08-23-1-768x510.jpg
+Content Type: image/jpeg
+
+Uri: https://smscarrental.com/wp-content/uploads/2023/10/2023-08-23-1.jpg
+File Name: D:\CLONE\smscarrental.com\wp-content\uploads\2023\10\2023-08-23-1.jpg
+Content Type: image/jpeg
+
+Uri: https://smscarrental.com/wp-content/uploads/2023/10/2023-08-23-4.jpg
+File Name: D:\CLONE\smscarrental.com\wp-content\uploads\2023\10\2023-08-23-4.jpg
+Content Type: image/jpeg
+
+Uri: https://smscarrental.com/wp-content/uploads/2023/10/2023-08-23-5-1024x769.jpg
+File Name: D:\CLONE\smscarrental.com\wp-content\uploads\2023\10\2023-08-23-5-1024x769.jpg
+Content Type: image/jpeg
+
+Uri: https://smscarrental.com/wp-content/uploads/2023/10/2023-08-23-5-300x225.jpg
+File Name: D:\CLONE\smscarrental.com\wp-content\uploads\2023\10\2023-08-23-5-300x225.jpg
+Content Type: image/jpeg
+
+Uri: https://smscarrental.com/wp-content/uploads/2023/10/2023-08-23-5-768x576.jpg
+File Name: D:\CLONE\smscarrental.com\wp-content\uploads\2023\10\2023-08-23-5-768x576.jpg
+Content Type: image/jpeg
+
+Uri: https://smscarrental.com/wp-content/uploads/2023/10/2023-08-23-5.jpg
+File Name: D:\CLONE\smscarrental.com\wp-content\uploads\2023\10\2023-08-23-5.jpg
+Content Type: image/jpeg
+
+Uri: https://smscarrental.com/wp-content/uploads/2023/10/2023-08-23-6.jpg
+File Name: D:\CLONE\smscarrental.com\wp-content\uploads\2023\10\2023-08-23-6.jpg
+Content Type: image/jpeg
+
+Uri: https://smscarrental.com/wp-content/uploads/2023/10/2023-08-23-7.jpg
+File Name: D:\CLONE\smscarrental.com\wp-content\uploads\2023\10\2023-08-23-7.jpg
+Content Type: image/jpeg
+
+Uri: https://smscarrental.com/wp-content/uploads/2023/10/2023-08-23-8.jpg
+File Name: D:\CLONE\smscarrental.com\wp-content\uploads\2023\10\2023-08-23-8.jpg
+Content Type: image/jpeg
+
+Uri: https://smscarrental.com/wp-content/uploads/2023/10/2023-08-23.jpg
+File Name: D:\CLONE\smscarrental.com\wp-content\uploads\2023\10\2023-08-23.jpg
+Content Type: image/jpeg
+
+Uri: https://smscarrental.com/wp-content/uploads/2023/10/2023-09-05-1.jpg
+File Name: D:\CLONE\smscarrental.com\wp-content\uploads\2023\10\2023-09-05-1.jpg
+Content Type: image/jpeg
+
+Uri: https://smscarrental.com/wp-content/uploads/2023/10/2023-09-05-2.jpg
+File Name: D:\CLONE\smscarrental.com\wp-content\uploads\2023\10\2023-09-05-2.jpg
+Content Type: image/jpeg
+
+Uri: https://smscarrental.com/wp-content/uploads/2023/10/2023-09-05-225x300.jpg
+File Name: D:\CLONE\smscarrental.com\wp-content\uploads\2023\10\2023-09-05-225x300.jpg
+Content Type: image/jpeg
+
+Uri: https://smscarrental.com/wp-content/uploads/2023/10/2023-09-05-3-225x300.jpg
+File Name: D:\CLONE\smscarrental.com\wp-content\uploads\2023\10\2023-09-05-3-225x300.jpg
+Content Type: image/jpeg
+
+Uri: https://smscarrental.com/wp-content/uploads/2023/10/2023-09-05-3.jpg
+File Name: D:\CLONE\smscarrental.com\wp-content\uploads\2023\10\2023-09-05-3.jpg
+Content Type: image/jpeg
+
+Uri: https://smscarrental.com/wp-content/uploads/2023/10/2023-09-05-4.jpg
+File Name: D:\CLONE\smscarrental.com\wp-content\uploads\2023\10\2023-09-05-4.jpg
+Content Type: image/jpeg
+
+Uri: https://smscarrental.com/wp-content/uploads/2023/10/2023-09-05.jpg
+File Name: D:\CLONE\smscarrental.com\wp-content\uploads\2023\10\2023-09-05.jpg
+Content Type: image/jpeg
+
+Uri: https://smscarrental.com/wp-content/uploads/2023/10/cropped-sms-car-rental-high-resolution-logo-color-on-transparent-background-180x180.png
+File Name: D:\CLONE\smscarrental.com\wp-content\uploads\2023\10\cropped-sms-car-rental-high-resolution-logo-color-on-transparent-background-180x180.png
+Content Type: image/png
+
+Uri: https://smscarrental.com/wp-content/uploads/2023/10/cropped-sms-car-rental-high-resolution-logo-color-on-transparent-background-192x192.png
+File Name: D:\CLONE\smscarrental.com\wp-content\uploads\2023\10\cropped-sms-car-rental-high-resolution-logo-color-on-transparent-background-192x192.png
+Content Type: image/png
+
+Uri: https://smscarrental.com/wp-content/uploads/2023/10/cropped-sms-car-rental-high-resolution-logo-color-on-transparent-background-32x32.png
+File Name: D:\CLONE\smscarrental.com\wp-content\uploads\2023\10\cropped-sms-car-rental-high-resolution-logo-color-on-transparent-background-32x32.png
+Content Type: image/png
+
+Uri: https://smscarrental.com/wp-content/uploads/2023/10/iconbox-image_01-150x150.png
+File Name: D:\CLONE\smscarrental.com\wp-content\uploads\2023\10\iconbox-image_01-150x150.png
+Content Type: image/png
+
+Uri: https://smscarrental.com/wp-content/uploads/2023/10/iconbox-image_01.png
+File Name: D:\CLONE\smscarrental.com\wp-content\uploads\2023\10\iconbox-image_01.png
+Content Type: image/png
+
+Uri: https://smscarrental.com/wp-content/uploads/2023/10/iconbox-image_02-150x150.png
+File Name: D:\CLONE\smscarrental.com\wp-content\uploads\2023\10\iconbox-image_02-150x150.png
+Content Type: image/png
+
+Uri: https://smscarrental.com/wp-content/uploads/2023/10/iconbox-image_02.png
+File Name: D:\CLONE\smscarrental.com\wp-content\uploads\2023\10\iconbox-image_02.png
+Content Type: image/png
+
+Uri: https://smscarrental.com/wp-content/uploads/2023/10/IMG20221229163356.jpg
+File Name: D:\CLONE\smscarrental.com\wp-content\uploads\2023\10\IMG20221229163356.jpg
+Content Type: image/jpeg
+
+Uri: https://smscarrental.com/wp-content/uploads/2023/10/IMG20221229171649.jpg
+File Name: D:\CLONE\smscarrental.com\wp-content\uploads\2023\10\IMG20221229171649.jpg
+Content Type: image/jpeg
+
+Uri: https://smscarrental.com/wp-content/uploads/2023/10/linebgoverlay.png
+File Name: D:\CLONE\smscarrental.com\wp-content\uploads\2023\10\linebgoverlay.png
+Content Type: image/png
+
+Uri: https://smscarrental.com/wp-content/uploads/2023/10/sms-1.jpg
+File Name: D:\CLONE\smscarrental.com\wp-content\uploads\2023\10\sms-1.jpg
+Content Type: image/jpeg
+
+Uri: https://smscarrental.com/wp-content/uploads/2023/10/sms-2-291x300.jpg
+File Name: D:\CLONE\smscarrental.com\wp-content\uploads\2023\10\sms-2-291x300.jpg
+Content Type: image/jpeg
+
+Uri: https://smscarrental.com/wp-content/uploads/2023/10/sms-2-768x793.jpg
+File Name: D:\CLONE\smscarrental.com\wp-content\uploads\2023\10\sms-2-768x793.jpg
+Content Type: image/jpeg
+
+Uri: https://smscarrental.com/wp-content/uploads/2023/10/sms-2-992x1024.jpg
+File Name: D:\CLONE\smscarrental.com\wp-content\uploads\2023\10\sms-2-992x1024.jpg
+Content Type: image/jpeg
+
+Uri: https://smscarrental.com/wp-content/uploads/2023/10/sms-2.jpg
+File Name: D:\CLONE\smscarrental.com\wp-content\uploads\2023\10\sms-2.jpg
+Content Type: image/jpeg
+
+Uri: https://smscarrental.com/wp-content/uploads/2023/10/sms-3.jpg
+File Name: D:\CLONE\smscarrental.com\wp-content\uploads\2023\10\sms-3.jpg
+Content Type: image/jpeg
+
+Uri: https://smscarrental.com/wp-content/uploads/2023/10/sms-4.jpg
+File Name: D:\CLONE\smscarrental.com\wp-content\uploads\2023\10\sms-4.jpg
+Content Type: image/jpeg
+
+Uri: https://smscarrental.com/wp-content/uploads/2023/10/sms-8.jpg
+File Name: D:\CLONE\smscarrental.com\wp-content\uploads\2023\10\sms-8.jpg
+Content Type: image/jpeg
+
+Uri: https://smscarrental.com/wp-content/uploads/2023/10/sms-car-rental-high-resolution-logo-color-on-transparent-background-1024x194.png
+File Name: D:\CLONE\smscarrental.com\wp-content\uploads\2023\10\sms-car-rental-high-resolution-logo-color-on-transparent-background-1024x194.png
+Content Type: image/png
+
+Uri: https://smscarrental.com/wp-content/uploads/2023/10/sms-car-rental-high-resolution-logo-color-on-transparent-background-1536x290.png
+File Name: D:\CLONE\smscarrental.com\wp-content\uploads\2023\10\sms-car-rental-high-resolution-logo-color-on-transparent-background-1536x290.png
+Content Type: image/png
+
+Uri: https://smscarrental.com/wp-content/uploads/2023/10/sms-car-rental-high-resolution-logo-color-on-transparent-background-300x57.png
+File Name: D:\CLONE\smscarrental.com\wp-content\uploads\2023\10\sms-car-rental-high-resolution-logo-color-on-transparent-background-300x57.png
+Content Type: image/png
+
+Uri: https://smscarrental.com/wp-content/uploads/2023/10/sms-car-rental-high-resolution-logo-color-on-transparent-background-768x145.png
+File Name: D:\CLONE\smscarrental.com\wp-content\uploads\2023\10\sms-car-rental-high-resolution-logo-color-on-transparent-background-768x145.png
+Content Type: image/png
+
+Uri: https://smscarrental.com/wp-content/uploads/2023/10/sms-car-rental-high-resolution-logo-color-on-transparent-background.png
+File Name: D:\CLONE\smscarrental.com\wp-content\uploads\2023\10\sms-car-rental-high-resolution-logo-color-on-transparent-background.png
+Content Type: image/png
+
+Uri: https://smscarrental.com/wp-content/uploads/elementor/css/post-1340.css?ver=1696505075
+File Name: D:\CLONE\smscarrental.com\wp-content\uploads\elementor\css\post-1340.css
+Content Type: text/css
+
+Uri: https://smscarrental.com/wp-content/uploads/elementor/css/post-1605.css?ver=1702874501
+File Name: D:\CLONE\smscarrental.com\wp-content\uploads\elementor\css\post-1605.css
+Content Type: text/css
+
+Uri: https://smscarrental.com/wp-content/uploads/elementor/css/post-1626.css?ver=1696508214
+File Name: D:\CLONE\smscarrental.com\wp-content\uploads\elementor\css\post-1626.css
+Content Type: text/css
+
+Uri: https://smscarrental.com/wp-content/uploads/elementor/css/post-2199.css?ver=1696644873
+File Name: D:\CLONE\smscarrental.com\wp-content\uploads\elementor\css\post-2199.css
+Content Type: text/css
+
+Uri: https://smscarrental.com/wp-content/uploads/elementor/css/post-2295.css?ver=1696671926
+File Name: D:\CLONE\smscarrental.com\wp-content\uploads\elementor\css\post-2295.css
+Content Type: text/css
+
+Uri: https://smscarrental.com/wp-content/uploads/elementor/css/post-23.css?ver=1696645745
+File Name: D:\CLONE\smscarrental.com\wp-content\uploads\elementor\css\post-23.css
+Content Type: text/css
+
+Uri: https://smscarrental.com/wp-content/uploads/elementor/css/post-24.css?ver=1696503108
+File Name: D:\CLONE\smscarrental.com\wp-content\uploads\elementor\css\post-24.css
+Content Type: text/css
+
+Uri: https://smscarrental.com/wp-content/uploads/elementor/css/post-730.css?ver=1696653371
+File Name: D:\CLONE\smscarrental.com\wp-content\uploads\elementor\css\post-730.css
+Content Type: text/css
+
+Uri: https://smscarrental.com/wp-content/uploads/elementor/css/post-732.css?ver=1696671600
+File Name: D:\CLONE\smscarrental.com\wp-content\uploads\elementor\css\post-732.css
+Content Type: text/css
+
+Uri: https://smscarrental.com/wp-content/uploads/elementor/css/post-734.css?ver=1696506479
+File Name: D:\CLONE\smscarrental.com\wp-content\uploads\elementor\css\post-734.css
+Content Type: text/css
+
+Uri: https://smscarrental.com/wp-content/uploads/elementor/css/post-736.css?ver=1697792452
+File Name: D:\CLONE\smscarrental.com\wp-content\uploads\elementor\css\post-736.css
+Content Type: text/css
+
+Uri: https://smscarrental.com/wp-content/uploads/elementor/css/post-738.css?ver=1696640701
+File Name: D:\CLONE\smscarrental.com\wp-content\uploads\elementor\css\post-738.css
+Content Type: text/css
+
+Uri: https://smscarrental.com/wp-content/uploads/elementor/css/post-8.css?ver=1696503107
+File Name: D:\CLONE\smscarrental.com\wp-content\uploads\elementor\css\post-8.css
+Content Type: text/css
+
+Uri: https://smscarrental.com/wp-includes/css/dashicons.min.css?ver=6.4.2
+File Name: D:\CLONE\smscarrental.com\wp-includes\css\dashicons.min.css
+Content Type: text/css
+
+Uri: https://smscarrental.com/wp-includes/css/dist/block-library/style.min.css?ver=6.4.2
+File Name: D:\CLONE\smscarrental.com\wp-includes\css\dist\block-library\style.min.css
+Content Type: text/css
+
+Uri: https://smscarrental.com/wp-includes/fonts/dashicons.eot?99ac726223c749443b642ce33df8b800
+File Name: D:\CLONE\smscarrental.com\wp-includes\fonts\dashicons.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://smscarrental.com/wp-includes/fonts/dashicons.ttf?99ac726223c749443b642ce33df8b800
+File Name: D:\CLONE\smscarrental.com\wp-includes\fonts\dashicons.ttf
+Content Type: font/ttf
+
+Uri: https://smscarrental.com/wp-includes/js/comment-reply.min.js?ver=6.4.2
+File Name: D:\CLONE\smscarrental.com\wp-includes\js\comment-reply.min.js
+Content Type: application/javascript
+
+Uri: https://smscarrental.com/wp-includes/js/dist/element.min.js?ver=ed1c7604880e8b574b40
+File Name: D:\CLONE\smscarrental.com\wp-includes\js\dist\element.min.js
+Content Type: application/javascript
+
+Uri: https://smscarrental.com/wp-includes/js/dist/escape-html.min.js?ver=03e27a7b6ae14f7afaa6
+File Name: D:\CLONE\smscarrental.com\wp-includes\js\dist\escape-html.min.js
+Content Type: application/javascript
+
+Uri: https://smscarrental.com/wp-includes/js/dist/hooks.min.js?ver=c6aec9a8d4e5a5d543a1
+File Name: D:\CLONE\smscarrental.com\wp-includes\js\dist\hooks.min.js
+Content Type: application/javascript
+
+Uri: https://smscarrental.com/wp-includes/js/dist/i18n.min.js?ver=7701b0c3857f914212ef
+File Name: D:\CLONE\smscarrental.com\wp-includes\js\dist\i18n.min.js
+Content Type: application/javascript
+
+Uri: https://smscarrental.com/wp-includes/js/dist/vendor/react-dom.min.js?ver=18.2.0
+File Name: D:\CLONE\smscarrental.com\wp-includes\js\dist\vendor\react-dom.min.js
+Content Type: application/javascript
+
+Uri: https://smscarrental.com/wp-includes/js/dist/vendor/react.min.js?ver=18.2.0
+File Name: D:\CLONE\smscarrental.com\wp-includes\js\dist\vendor\react.min.js
+Content Type: application/javascript
+
+Uri: https://smscarrental.com/wp-includes/js/dist/vendor/regenerator-runtime.min.js?ver=0.14.0
+File Name: D:\CLONE\smscarrental.com\wp-includes\js\dist\vendor\regenerator-runtime.min.js
+Content Type: application/javascript
+
+Uri: https://smscarrental.com/wp-includes/js/dist/vendor/wp-polyfill-inert.min.js?ver=3.1.2
+File Name: D:\CLONE\smscarrental.com\wp-includes\js\dist\vendor\wp-polyfill-inert.min.js
+Content Type: application/javascript
+
+Uri: https://smscarrental.com/wp-includes/js/dist/vendor/wp-polyfill.min.js?ver=3.15.0
+File Name: D:\CLONE\smscarrental.com\wp-includes\js\dist\vendor\wp-polyfill.min.js
+Content Type: application/javascript
+
+Uri: https://smscarrental.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.4.1
+File Name: D:\CLONE\smscarrental.com\wp-includes\js\jquery\jquery-migrate.min.js
+Content Type: application/javascript
+
+Uri: https://smscarrental.com/wp-includes/js/jquery/jquery.min.js?ver=3.7.1
+File Name: D:\CLONE\smscarrental.com\wp-includes\js\jquery\jquery.min.js
+Content Type: application/javascript
+
+Uri: https://smscarrental.com/wp-includes/js/jquery/ui/core.min.js?ver=1.13.2
+File Name: D:\CLONE\smscarrental.com\wp-includes\js\jquery\ui\core.min.js
+Content Type: application/javascript
+
+Uri: https://smscarrental.com/wp-includes/js/mediaelement/mediaelement-and-player.min.js?ver=4.2.17
+File Name: D:\CLONE\smscarrental.com\wp-includes\js\mediaelement\mediaelement-and-player.min.js
+Content Type: application/javascript
+
+Uri: https://smscarrental.com/wp-includes/js/mediaelement/mediaelement-migrate.min.js?ver=6.4.2
+File Name: D:\CLONE\smscarrental.com\wp-includes\js\mediaelement\mediaelement-migrate.min.js
+Content Type: application/javascript
+
+Uri: https://smscarrental.com/wp-includes/js/mediaelement/mediaelementplayer-legacy.min.css?ver=4.2.17
+File Name: D:\CLONE\smscarrental.com\wp-includes\js\mediaelement\mediaelementplayer-legacy.min.css
+Content Type: text/css
+
+Uri: https://smscarrental.com/wp-includes/js/mediaelement/mejs-controls.svg
+File Name: D:\CLONE\smscarrental.com\wp-includes\js\mediaelement\mejs-controls.svg
+Content Type: image/svg+xml
+
+Uri: https://smscarrental.com/wp-includes/js/mediaelement/wp-mediaelement.min.css?ver=6.4.2
+File Name: D:\CLONE\smscarrental.com\wp-includes\js\mediaelement\wp-mediaelement.min.css
+Content Type: text/css
+
+Uri: https://smscarrental.com/wp-includes/js/mediaelement/wp-mediaelement.min.js?ver=6.4.2
+File Name: D:\CLONE\smscarrental.com\wp-includes\js\mediaelement\wp-mediaelement.min.js
+Content Type: application/javascript
+
+Uri: https://smscarrental.com/wp-json/
+File Name: D:\CLONE\smscarrental.com\wp-json\index.htm
+Content Type: application/json
+
+Uri: https://smscarrental.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fsmscarrental.com%2F
+File Name: D:\CLONE\smscarrental.com\wp-json\oembed\1.0\embed
+Content Type: application/json
+
+Uri: https://smscarrental.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fsmscarrental.com%2F&format=xml
+File Name: D:\CLONE\smscarrental.com\wp-json\oembed\1.0\embed-1
+Content Type: text/xml
+
+Uri: https://smscarrental.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fsmscarrental.com%2Fabout%2F
+File Name: D:\CLONE\smscarrental.com\wp-json\oembed\1.0\embed-40
+Content Type: application/json
+
+Uri: https://smscarrental.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fsmscarrental.com%2Fabout%2F&format=xml
+File Name: D:\CLONE\smscarrental.com\wp-json\oembed\1.0\embed-41
+Content Type: text/xml
+
+Uri: https://smscarrental.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fsmscarrental.com%2Fairport-pick-up-and-drop%2F
+File Name: D:\CLONE\smscarrental.com\wp-json\oembed\1.0\embed-28
+Content Type: application/json
+
+Uri: https://smscarrental.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fsmscarrental.com%2Fairport-pick-up-and-drop%2F&format=xml
+File Name: D:\CLONE\smscarrental.com\wp-json\oembed\1.0\embed-29
+Content Type: text/xml
+
+Uri: https://smscarrental.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fsmscarrental.com%2Fblog%2F
+File Name: D:\CLONE\smscarrental.com\wp-json\oembed\1.0\embed-38
+Content Type: application/json
+
+Uri: https://smscarrental.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fsmscarrental.com%2Fblog%2F&format=xml
+File Name: D:\CLONE\smscarrental.com\wp-json\oembed\1.0\embed-39
+Content Type: text/xml
+
+Uri: https://smscarrental.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fsmscarrental.com%2Fbpo%2F
+File Name: D:\CLONE\smscarrental.com\wp-json\oembed\1.0\embed-8
+Content Type: application/json
+
+Uri: https://smscarrental.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fsmscarrental.com%2Fbpo%2F&format=xml
+File Name: D:\CLONE\smscarrental.com\wp-json\oembed\1.0\embed-9
+Content Type: text/xml
+
+Uri: https://smscarrental.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fsmscarrental.com%2Fcall-centre%2F
+File Name: D:\CLONE\smscarrental.com\wp-json\oembed\1.0\embed-10
+Content Type: application/json
+
+Uri: https://smscarrental.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fsmscarrental.com%2Fcall-centre%2F&format=xml
+File Name: D:\CLONE\smscarrental.com\wp-json\oembed\1.0\embed-11
+Content Type: text/xml
+
+Uri: https://smscarrental.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fsmscarrental.com%2Fcontact%2F
+File Name: D:\CLONE\smscarrental.com\wp-json\oembed\1.0\embed-50
+Content Type: application/json
+
+Uri: https://smscarrental.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fsmscarrental.com%2Fcontact%2F&format=xml
+File Name: D:\CLONE\smscarrental.com\wp-json\oembed\1.0\embed-51
+Content Type: text/xml
+
+Uri: https://smscarrental.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fsmscarrental.com%2Fcontract-services%2F
+File Name: D:\CLONE\smscarrental.com\wp-json\oembed\1.0\embed-24
+Content Type: application/json
+
+Uri: https://smscarrental.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fsmscarrental.com%2Fcontract-services%2F&format=xml
+File Name: D:\CLONE\smscarrental.com\wp-json\oembed\1.0\embed-25
+Content Type: text/xml
+
+Uri: https://smscarrental.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fsmscarrental.com%2Fcorporate-taxi-services%2F
+File Name: D:\CLONE\smscarrental.com\wp-json\oembed\1.0\embed-2
+Content Type: application/json
+
+Uri: https://smscarrental.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fsmscarrental.com%2Fcorporate-taxi-services%2F&format=xml
+File Name: D:\CLONE\smscarrental.com\wp-json\oembed\1.0\embed-3
+Content Type: text/xml
+
+Uri: https://smscarrental.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fsmscarrental.com%2Fdaily%2F
+File Name: D:\CLONE\smscarrental.com\wp-json\oembed\1.0\embed-32
+Content Type: application/json
+
+Uri: https://smscarrental.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fsmscarrental.com%2Fdaily%2F&format=xml
+File Name: D:\CLONE\smscarrental.com\wp-json\oembed\1.0\embed-33
+Content Type: text/xml
+
+Uri: https://smscarrental.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fsmscarrental.com%2Ffemale-employees%2F
+File Name: D:\CLONE\smscarrental.com\wp-json\oembed\1.0\embed-18
+Content Type: application/json
+
+Uri: https://smscarrental.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fsmscarrental.com%2Ffemale-employees%2F&format=xml
+File Name: D:\CLONE\smscarrental.com\wp-json\oembed\1.0\embed-19
+Content Type: text/xml
+
+Uri: https://smscarrental.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fsmscarrental.com%2Fhello-world%2F
+File Name: D:\CLONE\smscarrental.com\wp-json\oembed\1.0\embed-52
+Content Type: application/json
+
+Uri: https://smscarrental.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fsmscarrental.com%2Fhello-world%2F&format=xml
+File Name: D:\CLONE\smscarrental.com\wp-json\oembed\1.0\embed-53
+Content Type: text/xml
+
+Uri: https://smscarrental.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fsmscarrental.com%2Fhello-world-2%2F
+File Name: D:\CLONE\smscarrental.com\wp-json\oembed\1.0\embed-56
+Content Type: application/json
+
+Uri: https://smscarrental.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fsmscarrental.com%2Fhello-world-2%2F&format=xml
+File Name: D:\CLONE\smscarrental.com\wp-json\oembed\1.0\embed-57
+Content Type: text/xml
+
+Uri: https://smscarrental.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fsmscarrental.com%2Fhello-world-3%2F
+File Name: D:\CLONE\smscarrental.com\wp-json\oembed\1.0\embed-54
+Content Type: application/json
+
+Uri: https://smscarrental.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fsmscarrental.com%2Fhello-world-3%2F&format=xml
+File Name: D:\CLONE\smscarrental.com\wp-json\oembed\1.0\embed-55
+Content Type: text/xml
+
+Uri: https://smscarrental.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fsmscarrental.com%2Fhotels%2F
+File Name: D:\CLONE\smscarrental.com\wp-json\oembed\1.0\embed-6
+Content Type: application/json
+
+Uri: https://smscarrental.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fsmscarrental.com%2Fhotels%2F&format=xml
+File Name: D:\CLONE\smscarrental.com\wp-json\oembed\1.0\embed-7
+Content Type: text/xml
+
+Uri: https://smscarrental.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fsmscarrental.com%2Fintracity%2F
+File Name: D:\CLONE\smscarrental.com\wp-json\oembed\1.0\embed-36
+Content Type: application/json
+
+Uri: https://smscarrental.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fsmscarrental.com%2Fintracity%2F&format=xml
+File Name: D:\CLONE\smscarrental.com\wp-json\oembed\1.0\embed-37
+Content Type: text/xml
+
+Uri: https://smscarrental.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fsmscarrental.com%2Fit-industry%2F
+File Name: D:\CLONE\smscarrental.com\wp-json\oembed\1.0\embed-4
+Content Type: application/json
+
+Uri: https://smscarrental.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fsmscarrental.com%2Fit-industry%2F&format=xml
+File Name: D:\CLONE\smscarrental.com\wp-json\oembed\1.0\embed-5
+Content Type: text/xml
+
+Uri: https://smscarrental.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fsmscarrental.com%2Fmarketing-agencies%2F
+File Name: D:\CLONE\smscarrental.com\wp-json\oembed\1.0\embed-14
+Content Type: application/json
+
+Uri: https://smscarrental.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fsmscarrental.com%2Fmarketing-agencies%2F&format=xml
+File Name: D:\CLONE\smscarrental.com\wp-json\oembed\1.0\embed-15
+Content Type: text/xml
+
+Uri: https://smscarrental.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fsmscarrental.com%2Fnight-shifts%2F
+File Name: D:\CLONE\smscarrental.com\wp-json\oembed\1.0\embed-16
+Content Type: application/json
+
+Uri: https://smscarrental.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fsmscarrental.com%2Fnight-shifts%2F&format=xml
+File Name: D:\CLONE\smscarrental.com\wp-json\oembed\1.0\embed-17
+Content Type: text/xml
+
+Uri: https://smscarrental.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fsmscarrental.com%2Four-team%2F
+File Name: D:\CLONE\smscarrental.com\wp-json\oembed\1.0\embed-48
+Content Type: application/json
+
+Uri: https://smscarrental.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fsmscarrental.com%2Four-team%2F&format=xml
+File Name: D:\CLONE\smscarrental.com\wp-json\oembed\1.0\embed-49
+Content Type: text/xml
+
+Uri: https://smscarrental.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fsmscarrental.com%2Foutstation%2F
+File Name: D:\CLONE\smscarrental.com\wp-json\oembed\1.0\embed-34
+Content Type: application/json
+
+Uri: https://smscarrental.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fsmscarrental.com%2Foutstation%2F&format=xml
+File Name: D:\CLONE\smscarrental.com\wp-json\oembed\1.0\embed-35
+Content Type: text/xml
+
+Uri: https://smscarrental.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fsmscarrental.com%2Fpharma%2F
+File Name: D:\CLONE\smscarrental.com\wp-json\oembed\1.0\embed-12
+Content Type: application/json
+
+Uri: https://smscarrental.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fsmscarrental.com%2Fpharma%2F&format=xml
+File Name: D:\CLONE\smscarrental.com\wp-json\oembed\1.0\embed-13
+Content Type: text/xml
+
+Uri: https://smscarrental.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fsmscarrental.com%2Fportfolio%2F
+File Name: D:\CLONE\smscarrental.com\wp-json\oembed\1.0\embed-42
+Content Type: application/json
+
+Uri: https://smscarrental.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fsmscarrental.com%2Fportfolio%2F&format=xml
+File Name: D:\CLONE\smscarrental.com\wp-json\oembed\1.0\embed-43
+Content Type: text/xml
+
+Uri: https://smscarrental.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fsmscarrental.com%2Frailway-pick-up-and-drop%2F
+File Name: D:\CLONE\smscarrental.com\wp-json\oembed\1.0\embed-26
+Content Type: application/json
+
+Uri: https://smscarrental.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fsmscarrental.com%2Frailway-pick-up-and-drop%2F&format=xml
+File Name: D:\CLONE\smscarrental.com\wp-json\oembed\1.0\embed-27
+Content Type: text/xml
+
+Uri: https://smscarrental.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fsmscarrental.com%2Froad-trips%2F
+File Name: D:\CLONE\smscarrental.com\wp-json\oembed\1.0\embed-22
+Content Type: application/json
+
+Uri: https://smscarrental.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fsmscarrental.com%2Froad-trips%2F&format=xml
+File Name: D:\CLONE\smscarrental.com\wp-json\oembed\1.0\embed-23
+Content Type: text/xml
+
+Uri: https://smscarrental.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fsmscarrental.com%2Ftaxi-services%2F
+File Name: D:\CLONE\smscarrental.com\wp-json\oembed\1.0\embed-30
+Content Type: application/json
+
+Uri: https://smscarrental.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fsmscarrental.com%2Ftaxi-services%2F&format=xml
+File Name: D:\CLONE\smscarrental.com\wp-json\oembed\1.0\embed-31
+Content Type: text/xml
+
+Uri: https://smscarrental.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fsmscarrental.com%2Ftestimonials%2F
+File Name: D:\CLONE\smscarrental.com\wp-json\oembed\1.0\embed-46
+Content Type: application/json
+
+Uri: https://smscarrental.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fsmscarrental.com%2Ftestimonials%2F&format=xml
+File Name: D:\CLONE\smscarrental.com\wp-json\oembed\1.0\embed-47
+Content Type: text/xml
+
+Uri: https://smscarrental.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fsmscarrental.com%2Ftourism-and-travels%2F
+File Name: D:\CLONE\smscarrental.com\wp-json\oembed\1.0\embed-20
+Content Type: application/json
+
+Uri: https://smscarrental.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fsmscarrental.com%2Ftourism-and-travels%2F&format=xml
+File Name: D:\CLONE\smscarrental.com\wp-json\oembed\1.0\embed-21
+Content Type: text/xml
+
+Uri: https://smscarrental.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fsmscarrental.com%2Fvehicle-models%2F
+File Name: D:\CLONE\smscarrental.com\wp-json\oembed\1.0\embed-44
+Content Type: application/json
+
+Uri: https://smscarrental.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fsmscarrental.com%2Fvehicle-models%2F&format=xml
+File Name: D:\CLONE\smscarrental.com\wp-json\oembed\1.0\embed-45
+Content Type: text/xml
+
+Uri: https://smscarrental.com/wp-json/wp/v2/categories/1
+File Name: D:\CLONE\smscarrental.com\wp-json\wp\v2\categories\1
+Content Type: application/json
+
+Uri: https://smscarrental.com/wp-json/wp/v2/pages/1605
+File Name: D:\CLONE\smscarrental.com\wp-json\wp\v2\pages\1605
+Content Type: application/json
+
+Uri: https://smscarrental.com/wp-json/wp/v2/pages/1608
+File Name: D:\CLONE\smscarrental.com\wp-json\wp\v2\pages\1608
+Content Type: application/json
+
+Uri: https://smscarrental.com/wp-json/wp/v2/pages/1609
+File Name: D:\CLONE\smscarrental.com\wp-json\wp\v2\pages\1609
+Content Type: application/json
+
+Uri: https://smscarrental.com/wp-json/wp/v2/pages/1610
+File Name: D:\CLONE\smscarrental.com\wp-json\wp\v2\pages\1610
+Content Type: application/json
+
+Uri: https://smscarrental.com/wp-json/wp/v2/pages/1611
+File Name: D:\CLONE\smscarrental.com\wp-json\wp\v2\pages\1611
+Content Type: application/json
+
+Uri: https://smscarrental.com/wp-json/wp/v2/pages/1612
+File Name: D:\CLONE\smscarrental.com\wp-json\wp\v2\pages\1612
+Content Type: application/json
+
+Uri: https://smscarrental.com/wp-json/wp/v2/pages/1613
+File Name: D:\CLONE\smscarrental.com\wp-json\wp\v2\pages\1613
+Content Type: application/json
+
+Uri: https://smscarrental.com/wp-json/wp/v2/pages/1614
+File Name: D:\CLONE\smscarrental.com\wp-json\wp\v2\pages\1614
+Content Type: application/json
+
+Uri: https://smscarrental.com/wp-json/wp/v2/pages/1615
+File Name: D:\CLONE\smscarrental.com\wp-json\wp\v2\pages\1615
+Content Type: application/json
+
+Uri: https://smscarrental.com/wp-json/wp/v2/pages/1616
+File Name: D:\CLONE\smscarrental.com\wp-json\wp\v2\pages\1616
+Content Type: application/json
+
+Uri: https://smscarrental.com/wp-json/wp/v2/pages/1617
+File Name: D:\CLONE\smscarrental.com\wp-json\wp\v2\pages\1617
+Content Type: application/json
+
+Uri: https://smscarrental.com/wp-json/wp/v2/pages/1618
+File Name: D:\CLONE\smscarrental.com\wp-json\wp\v2\pages\1618
+Content Type: application/json
+
+Uri: https://smscarrental.com/wp-json/wp/v2/pages/1619
+File Name: D:\CLONE\smscarrental.com\wp-json\wp\v2\pages\1619
+Content Type: application/json
+
+Uri: https://smscarrental.com/wp-json/wp/v2/pages/1620
+File Name: D:\CLONE\smscarrental.com\wp-json\wp\v2\pages\1620
+Content Type: application/json
+
+Uri: https://smscarrental.com/wp-json/wp/v2/pages/1621
+File Name: D:\CLONE\smscarrental.com\wp-json\wp\v2\pages\1621
+Content Type: application/json
+
+Uri: https://smscarrental.com/wp-json/wp/v2/pages/1622
+File Name: D:\CLONE\smscarrental.com\wp-json\wp\v2\pages\1622
+Content Type: application/json
+
+Uri: https://smscarrental.com/wp-json/wp/v2/pages/1623
+File Name: D:\CLONE\smscarrental.com\wp-json\wp\v2\pages\1623
+Content Type: application/json
+
+Uri: https://smscarrental.com/wp-json/wp/v2/pages/1624
+File Name: D:\CLONE\smscarrental.com\wp-json\wp\v2\pages\1624
+Content Type: application/json
+
+Uri: https://smscarrental.com/wp-json/wp/v2/pages/1625
+File Name: D:\CLONE\smscarrental.com\wp-json\wp\v2\pages\1625
+Content Type: application/json
+
+Uri: https://smscarrental.com/wp-json/wp/v2/pages/1626
+File Name: D:\CLONE\smscarrental.com\wp-json\wp\v2\pages\1626
+Content Type: application/json
+
+Uri: https://smscarrental.com/wp-json/wp/v2/pages/2295
+File Name: D:\CLONE\smscarrental.com\wp-json\wp\v2\pages\2295
+Content Type: application/json
+
+Uri: https://smscarrental.com/wp-json/wp/v2/pages/730
+File Name: D:\CLONE\smscarrental.com\wp-json\wp\v2\pages\730
+Content Type: application/json
+
+Uri: https://smscarrental.com/wp-json/wp/v2/pages/732
+File Name: D:\CLONE\smscarrental.com\wp-json\wp\v2\pages\732
+Content Type: application/json
+
+Uri: https://smscarrental.com/wp-json/wp/v2/pages/734
+File Name: D:\CLONE\smscarrental.com\wp-json\wp\v2\pages\734
+Content Type: application/json
+
+Uri: https://smscarrental.com/wp-json/wp/v2/pages/736
+File Name: D:\CLONE\smscarrental.com\wp-json\wp\v2\pages\736
+Content Type: application/json
+
+Uri: https://smscarrental.com/wp-json/wp/v2/pages/738
+File Name: D:\CLONE\smscarrental.com\wp-json\wp\v2\pages\738
+Content Type: application/json
+
+Uri: https://smscarrental.com/wp-json/wp/v2/posts/1
+File Name: D:\CLONE\smscarrental.com\wp-json\wp\v2\posts\1
+Content Type: application/json
+
+Uri: https://smscarrental.com/wp-json/wp/v2/posts/1564
+File Name: D:\CLONE\smscarrental.com\wp-json\wp\v2\posts\1564
+Content Type: application/json
+
+Uri: https://smscarrental.com/wp-json/wp/v2/posts/1592
+File Name: D:\CLONE\smscarrental.com\wp-json\wp\v2\posts\1592
+Content Type: application/json
+
+Uri: https://smscarrental.com/wp-json/wp/v2/users/1
+File Name: D:\CLONE\smscarrental.com\wp-json\wp\v2\users\1
+Content Type: application/json
+
+Uri: https://smscarrental.com/xmlrpc.php?rsd
+File Name: D:\CLONE\smscarrental.com\xmlrpc.php
+Content Type: text/xml
+

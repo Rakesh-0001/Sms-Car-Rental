@@ -1,0 +1,96 @@
+ @font-face {
+    font-family: 'CustomFont';
+    src: url('FontsFree-Net-Poppins-SemiBold.ttf');
+
+}
+
+.big {
+
+    font-family: 'CustomFont';
+
+}
+
+#reviews{
+    background-color: blue;
+    width: 100%;
+}
+
+
+
+
+.form-main form {
+   
+    line-height: 50px;
+
+}
+
+.form-main form input {
+
+    margin: 4px;
+    margin-top: 10px;
+    border: 1px solid gray;
+    padding-left: 10px;
+
+}
+
+.form-main form button {
+
+    background-color: rgba(0, 47, 255, 0.603);
+    font-family: 'CustomFont';
+
+}
+
+.form-main form button:hover {
+
+    background-color: rgb(0, 47, 255);
+    font-family: 'CustomFont';
+
+}
+
+
+ @media only screen and (max-width: 600px) {
+
+    .form-main {
+       
+        margin-top: 100px;
+
+    }
+
+    .form-main form {
+    
+        line-height: 50px;
+
+    }
+
+    .form-main form input {
+
+        margin: 4px;
+        margin-top: 10px;
+        border: 1px solid gray;
+        padding-left: 10px;
+
+    }
+
+    .form-main form button {
+
+        background-color: rgba(0, 47, 255, 0.603);
+        font-family: 'CustomFont';
+
+    }
+
+    .form-main form button:hover {
+
+        background-color: rgba(0, 47, 255, 0.603);
+        font-family: 'CustomFont';
+
+    }
+
+
+    #reviews{
+        background-color: blue;
+        width: 100%;
+        text-align: center;
+    }
+    
+
+}  
