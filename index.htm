@@ -1546,17 +1546,79 @@
 						</div>
 					</div>
 				</div>
-				<div class="elementor-column elementor-col-50 elementor-top-column elementor-element elementor-element-fbc0609"
+				<!-- toggle icon -->
+				<div class="toggle-menus elementor-column elementor-col-50 elementor-top-column elementor-element elementor-element-fbc0609"
 					data-id="fbc0609" data-element_type="column">
 					<div class="elementor-widget-wrap elementor-element-populated">
 						<div class="elementor-element elementor-element-cdd9880 xs_custom_header elementor-widget elementor-widget-ekit-nav-menu"
 							data-id="cdd9880" data-element_type="widget" data-widget_type="ekit-nav-menu.default">
 							<div class="elementor-widget-container">
-								<div class="ekit-wid-con ekit_menu_responsive_tablet"
+
+								<div class="ekit-wid-con ekit_menu_responsive_tablet "
 									data-hamburger-icon="icon icon-menu-6" data-hamburger-icon-type="icon"
-									data-responsive-breakpoint="1024"> <button
-										class="elementskit-menu-hamburger elementskit-menu-toggler" type="button"
+									data-responsive-breakpoint="1024">
+									<style>
+										.toggle-menus{
+											
+										}
+										.phone{
+											font-size: 22px;
+											
+										}
+										@media only screen and (max-width: 520px) {
+											.toggle-menus{
+												position: relative;
+												
+												width: 150px;
+											
+											justify-content: space-between;
+											
+										}
+										.phone{
+											font-size: 22px;
+											position: relative;
+											right: 20px;
+											
+										}
+										
+											
+										}
+										@media only screen and (max-width: 448px) {
+											.toggle-menus{
+												position: relative;
+												
+												width: 150px;
+											
+											justify-content: space-between;
+											}
+											
+										.phone{
+											font-size: 22px;
+											position: relative;
+											right: 20px;
+											top: 37px;
+											
+										}
+										
+											
+										}
+									
+										
+										@media only screen and (min-width: 520px) {
+											.phone{
+											font-size: 20px;
+											display: none;
+										}
+											
+										
+											
+										}
+									</style>
+									<a href="tel:9739983839" class="phone"><i class="fa-solid fa-phone-volume "></i></a>
+
+									<button class="elementskit-menu-hamburger elementskit-menu-toggler" type="button"
 										aria-label="hamburger-icon">
+
 										<i aria-hidden="true" class="ekit-menu-icon icon icon-menu-6"></i> </button>
 									<div id="ekit-megamenu-main-menu"
 										class="elementskit-menu-container elementskit-menu-offcanvas-elements elementskit-navbar-nav-default ekit-nav-menu-one-page-no ekit-nav-dropdown-hover">
@@ -1674,14 +1736,20 @@
 												data-vertical-menu="750px"><a href="portfolio/index.htm"
 													class="ekit-menu-nav-link">Our Fleet</a></li>
 										</ul>
-										<div class="elementskit-nav-identity-panel">
+
+										<div class="elementskit-nav-identity-panel" style=" height: 80px;">
 											<div class="elementskit-site-title">
 												<a class="elementskit-nav-logo" href="index.htm" target="_self" rel="">
-													<img width="300" height="57"
-														src="wp-content/uploads/2020/06/header_logo_min-1.png"
-														class="attachment-full size-full" alt="" decoding="async">
+													<img style="position: absolute; width: 50px;bottom: 1px;"
+														src="IMG/logo.png" class="" alt="" decoding="async">
 												</a>
-											</div><button class="elementskit-menu-close elementskit-menu-toggler"
+
+											</div>
+											<div>
+
+											</div>
+
+											<button class="elementskit-menu-close elementskit-menu-toggler"
 												type="button">X</button>
 										</div>
 									</div>
@@ -2001,54 +2069,7 @@
 													</div>
 												</div>
 											</div>
-											<div class="elementor-column elementor-col-50 elementor-inner-column elementor-element elementor-element-fc37be6"
-												data-id="fc37be6" data-element_type="column">
-												<div class="elementor-column-wrap elementor-element-populated">
-													<div class="elementor-widget-wrap">
-														<div class="elementor-element elementor-element-22bbcb44 ekit-equal-height-disable elementor-widget elementor-widget-elementskit-icon-box"
-															data-id="22bbcb44" data-element_type="widget"
-															data-widget_type="elementskit-icon-box.default">
-															<div class="elementor-widget-container">
-																<div class="ekit-wid-con">
-																	<a href="#" target="_self" rel=""
-																		class="ekit_global_links">
 
-																		<div style="background-color: rgb(237,237,237); padding: 40px; margin: 20px;"
-																			class="elementskit-infobox text- text-left icon-lef-right-aligin elementor-animation- media  ">
-																			<div
-																				class="elementskit-box-header elementor-animation-">
-																				<div
-																					class="elementskit-info-box-icon  text-center">
-																					<i style="font-size: 30px; background-color: blue ;padding: 10px; color: white;"
-																						aria-hidden="true"
-																						class="elementkit-infobox-icon icon icon-bus"></i>
-																				</div>
-																			</div>
-																			<div class="box-body">
-																				<h3
-																					class="elementskit-info-box-title p-3 big ">
-																					One Way Car Rentals </h3>
-																				<p class="big  ">
-																					Whether you're planning an
-																					unexpected vacation, a business
-																					trip, or a cross-country road trip,
-																					our One-Way Car Rental provides the
-																					necessary flexibility. Travel to one
-																					place and arrive at another, all the
-																					while enjoying the comfort and
-																					dependability of our wide range of
-																					automobiles.
-
-																				</p>
-																			</div>
-																		</div>
-																	</a>
-																</div>
-															</div>
-														</div>
-													</div>
-												</div>
-											</div>
 										</div>
 									</div>
 								</section>
@@ -2216,8 +2237,9 @@
 																				class="eicon-star active"></i></a>
 																	</li>
 																</ul>
-																<p class="p-2" style="font-size: 22px; " class="big "
-																	id="reviews">
+																<p class="p-2 "
+																	style="font-size: 22px;background-color: white; "
+																	class="big " id="reviews">
 																	I have recently travelled experience driver on
 																	time,good service and vehicle is clean and
 																	neat.thank you for SMS car rental.......</p>
@@ -2251,8 +2273,9 @@
 																				class="eicon-star active"></i></a>
 																	</li>
 																</ul>
-																<p class="p-2" style="font-size: 22px;" class="big "
-																	id="reviews">
+																<p class="p-2"
+																	style="font-size: 22px;background-color: white;"
+																	class="big " id="reviews">
 																	Excellent driver and car clean good service
 																	everything I am really happy in the SMS car rental
 																	Travels but good service thank you 👌👌👌</p>
@@ -2286,8 +2309,9 @@
 																				class="eicon-star active"></i></a>
 																	</li>
 																</ul>
-																<p class="p-2 " style="font-size: 22px;" class="big "
-																	id="reviews">
+																<p class="p-2 "
+																	style="font-size: 22px; background-color: white;"
+																	class="big " id="reviews">
 																	We got very good experience, went Pondy , trip was 3
 																	days , I am very happy and satisfied with SMS cars ,
 																	keep it up , thanks 🙏</p>
@@ -2401,8 +2425,9 @@
 								<h3 class="ekit-heading--subtitle elementskit-section-subtitle big  ">
 									You have any questions or need additional information?</h3>
 								<div class="ekit-heading__description big ">
-									<p><span style="color: #ffbf00">Address : </span>Car|Rental
-										/ 3861 Sepulveda Blvd. / Culver City, CA 90230</p>
+									<p><span style="color: #ffbf00">Address : </span>
+										No/94, vigneshwara Leyout, 18th F cross,Hoysala nagar,3rd main road, Ramamurthy
+										Nagar,Bangalore-560016</p>
 								</div>
 							</div>
 						</div>
