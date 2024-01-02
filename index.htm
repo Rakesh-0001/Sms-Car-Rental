@@ -1516,6 +1516,7 @@
 					<div class="elementor-widget-wrap elementor-element-populated ">
 						<div
 							class="elementor-element elementor-element-1e5875b elementor-widget elementor-widget-image">
+
 							<div class="elementor-widget-container">
 								<style>
 									/*! elementor - v3.16.0 - 20-09-2023 */
@@ -1538,6 +1539,8 @@
 								</style>
 
 
+
+
 								<a href="index.htm">
 									<img width="60" height="60" src="IMG/logo-01.png" class="attachment-full size-full "
 										alt="" srcset="IMG/logo-01.png 1536w" sizes="(max-width: 60px) 100vw, 60px">
@@ -1558,99 +1561,189 @@
 									data-hamburger-icon="icon icon-menu-6" data-hamburger-icon-type="icon"
 									data-responsive-breakpoint="1024">
 									<style>
-										.toggle-menus{
-											
+										.toggle-menus {}
+
+										.phone {
+											font-size: 24px;
+
 										}
-										.phone{
+
+										.phone:hover {
 											font-size: 22px;
-											
+											color: rgb(65, 63, 218);
+
 										}
-										.phone:hover{
-											font-size: 22px;
-											color: rgb(65,63,218);
-											
+
+										.phone:active {
+											font-size: 24px;
+
+											color: rgb(65, 63, 218);
+
 										}
-										.phone:active{
-											font-size: 22px;
-											
-											color: rgb(65,63,218);
-											
+
+										.chat {
+											/* color: red; */
+											font-size: 24px;
+
+
 										}
+										.chat:hover {
+												
+												color: blue;
+
+											}
+
+											.chat:active {
+											
+												color: rgb(65, 63, 218);
+
+											}
+
 										@media only screen and (max-width: 520px) {
-											.toggle-menus{
+											.toggle-menus {
 												position: relative;
 												bottom: 1px;
-												
+
 												width: 150px;
-												
-										}
-										.phone{
-											font-size: 22px;
-											position: relative;
-											right: 20px;
-											
-										}
-										.phone:hover{
-											font-size: 22px;
-											color: rgb(65,63,218);
-											
-										}
-										.phone:active{
-											font-size: 22px;
-											position: relative;
-											right: 20px;
-					
-											color: rgb(65,63,218);
-											
-										}
-										
-											
-										}
-										@media only screen and (max-width: 448px) {
-											.toggle-menus{
-											
-											position: relative;
-											bottom: 15px;
-											justify-content: space-between;
+
 											}
+
+											.phone {
+												font-size: 22px;
+												position: relative;
+												right: 38px;
+												top: 41px;
+
+											}
+
+											.phone:hover {
+												font-size: 22px;
+												color: rgb(65, 63, 218);
+
+											}
+
+											.phone:active {
+												
+
+												color: rgb(65, 63, 218);
+
+											}
+											.chat {
+												/* color: red; */
+												position: relative;
+												right: 50px;
+												top: 41px;
+
+
+											}
+											.chat:hover {
+												
+												color: blue;
+
+											}
+
+											.chat:active {
 											
-										.phone{
-											font-size: 22px;
-											position: relative;
-											right: 20px;
-											top: 41px;
-											
+												color: rgb(65, 63, 218);
+
+											}
+
+
 										}
-										.phone:hover{
-											font-size: 22px;
-											color: blue;
+
+										@media only screen and (max-width: 448px) {
+											.toggle-menus {
+
+												position: relative;
+												bottom: 15px;
+												justify-content: space-between;
+											}
+
+											.phone {
+												font-size: 22px;
+												position: relative;
+												right: 38px;
+												top: 41px;
+
+											}
+
+											.phone:hover {
+												font-size: 22px;
+												color: blue;
+
+											}
+
+											.phone:active {
+												font-size: 22px;
+												position: relative;
+												right: 20px;
+												top: 41px;
+												color: rgb(65, 63, 218);
+
+											}
+
+											.chat {
+												/* color: red; */
+												position: relative;
+												right: 50px;
+												top: 41px;
+
+
+											}
+											.chat:hover {
+												
+												color: blue;
+
+											}
+
+											.chat:active {
 											
+												color: rgb(65, 63, 218);
+
+											}
+
+
 										}
-										.phone:active{
-											font-size: 22px;
-											position: relative;
-											right: 20px;
-											top: 41px;
-											color: rgb(65,63,218);
-											
-										}
-										
-											
-										}
-									
-										
+
+
 										@media only screen and (min-width: 520px) {
-											.phone{
-											font-size: 20px;
-											display: none;
-										}
-											
-										
-											
+											.phone {
+												font-size: 20px;
+												display: none;
+											}
+
+											.chat {
+												color: red;
+												display: none;
+
+
+											}
+
+
+
 										}
 									</style>
-									<a href="tel:9739983839" class="phone"><i class="fa-solid fa-phone-volume "></i></a>
 
+
+
+
+
+									<div class="ekit-wid-con ekit_menu_responsive_tablet"
+										data-hamburger-icon="icon icon-menu-6" data-hamburger-icon-type="icon"
+										data-responsive-breakpoint="1024">
+										<!-- Your existing code for chat icon goes here -->
+										<a href="your-chat-link" class="chat">
+											<i class="fa-solid fa-comment-dots"></i>
+										</a>
+										<!-- Call icon for mobile -->
+										<a href="tel:9739983839" class="phone">
+											<i class="fa-solid fa-phone-volume"></i>
+										</a>
+									</div>
+									<!-- <div> -->
+									<!-- <a href="tel:9739983839" class="phone"><i
+												class="fa-solid fa-phone-volume "></i></a> -->
+									<!-- </div> -->
 									<button class="elementskit-menu-hamburger elementskit-menu-toggler" type="button"
 										aria-label="hamburger-icon">
 
@@ -1985,7 +2078,9 @@
 																					are planning a business trip,
 																					weekend vacation, or relaxing drive.
 																				</p>
-																				<a href="tel:9739983839"><button class=" btn text-white">Book Now</button></a>
+																				<a href="tel:9739983839"><button
+																						class=" btn text-white">Book
+																						Now</button></a>
 																			</div>
 																		</div>
 																	</a>
@@ -2040,7 +2135,9 @@
 																					amazing trip.
 
 																				</p>
-																				<a href="tel:9739983839"><button class=" btn text-white">Book Now</button></a>
+																				<a href="tel:9739983839"><button
+																						class=" btn text-white">Book
+																						Now</button></a>
 																			</div>
 																		</div>
 																	</a>
@@ -2097,7 +2194,9 @@
 																					exclusive offer liberates you from
 																					mileage restrictions, turning every
 																					drive into an adventure. </p>
-																					<a href="tel:9739983839"><button class=" btn text-white">Book Now</button></a>
+																				<a href="tel:9739983839"><button
+																						class=" btn text-white">Book
+																						Now</button></a>
 																			</div>
 																		</div>
 																	</a>
@@ -2117,13 +2216,13 @@
 				</div>
 			</div>
 		</section>
-<style>
-	.btn:hover{
-		background-color: rgb(29, 29, 209);
-		color: black;
+		<style>
+			.btn:hover {
+				background-color: rgb(29, 29, 209);
+				color: black;
 
-	}
-</style>
+			}
+		</style>
 		<section style="background-color: #413fda" class="p-3 mt-3">
 			<div class="">
 				<div class="row d-flex justify-content-between p-3 row-cols-1">
