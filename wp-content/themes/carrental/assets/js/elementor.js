@@ -166,25 +166,7 @@
       });
     },
 
-    // BackToTop: function ($scope) {
-    //   $(window).on("scroll", function () {
-    //     var scrolltop = $(window).scrollTop(),
-    //       docHeight = $(document).height() / 2;
 
-    //     if (scrolltop > docHeight) {
-    //       $(".car_back_to_top").slideUp();
-    //     } else {
-    //       $(".car_back_to_top").slideDown();
-    //     }
-    //   });
-
-    //   $scope.find('.scrollup').on('click', function (e) {
-    //     e.preventDefault();
-    //     $("html, body").animate({
-    //       scrollTop: 0
-    //     })
-    //   });
-    // },
 
     Reservation: function ($scope) {
       if ($scope.find('.pick-up-date').length >0 && $scope.find('.drop-off-date').length > 0) {
